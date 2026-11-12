@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Aus welchem Outfit lässt sich kinderleicht ein sexy Halloween-Kostüm zaubern?"
+  }
+ ]
+}

@@ -1,0 +1,1544 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120569",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Tassen Kaffee du heute getrunken hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120570",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Menschen gerade bei dir zu Hause wohnen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120571",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Autos du in deinem Leben besessen hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120572",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Haustiere du gerade hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120573",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Paar Schuhe du besitzt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120574",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Löcher deine Unterwäsche hat. Die Öffnungen zum Pinkeln zählen mit.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120575",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden dein letzter Stuhlgang her ist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120576",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern die letzte Ziffer deines Geburtsjahres an."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120577",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Löcher du als Erwachsener in den Zähnen bekommen hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120578",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie oft der Buchstabe E in deinem Nachnamen vorkommt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120581",
+   "isInRoomOnly": true,
+   "task": "Zeige fünf Finger, wenn dein Vorname mit S anfängt, und sieben, wenn nicht."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120582",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Sekunden dein längster Furz gedauert hat."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120583",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Steaks du im letzten Monat gegessen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120584",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, um wie viel Uhr du heute Morgen aufgestanden bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120585",
+   "isInRoomOnly": true,
+   "task": "Zeige an deiner LINKEN Hand so viele Finger, wie du möchtest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120586",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Pizzastücke du diese Woche gegessen hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120587",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft dich die Polizei wegen Zuschnellfahrens angehalten hat.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120589",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Kleidungsschichten du gerade trägst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120591",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern die letzte Ziffer deiner Schuhgröße an."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120592",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Finger du mindestens zum Hinternabwischen brauchst.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120593",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie oft du normalerweise pro Woche ins Fitnessstudio gehst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120594",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Drinks du brauchst, um betrunken zu werden.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120595",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Spieler in dieser Runde mitspielen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120596",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Streamingdienste du bezahlst, zum Beispiel Netflix oder Amazon Prime."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Mache eine Geste mit einer Hand.",
+   "id": "120597",
+   "isInRoomOnly": true,
+   "task": "Zeige nur die Finger ganz außen an deiner Hand."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120598",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du schon gefeuert wurdest.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120600",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis zehn an, wie handwerklich begabt du dich findest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120601",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie oft du dir diesen Monat die Beine rasiert hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120605",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du im letzten Jahr geflogen bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120606",
+   "isInRoomOnly": false,
+   "task": "Zeige eine ungerade Anzahl an Fingern, wenn du zwischen Juni und Dezember geboren bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120607",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Sporttrikots du besitzt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120608",
+   "isInRoomOnly": true,
+   "task": "Zeige einen Finger für je zwanzig Zentimeter, die dein Traumpartner groß sein sollte.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120611",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Hochschulen du schon besucht hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120612",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Paar schicke Schuhe ein erwachsener Mann mindestens besitzen sollte."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120613",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Rollen Klopapier bei dir zu Hause in einer normalen Woche verbraucht werden."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120614",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie alt du warst, als du selbstständig aufs Klo gehen konntest. Vermutlich."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120615",
+   "isInRoomOnly": false,
+   "task": "Zeige eine Anzahl an Fingern, die eine Primzahl ist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120619",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Onkel du hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120621",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele zusätzliche Zutaten du normalerweise in deinen Kaffee gibst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120622",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, nach wie vielen Dates du jemanden als deinen festen Partner bezeichnen würdest.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120624",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Pfannkuchen du normalerweise auf einmal isst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120625",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Kontinente es gibt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120627",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie oft du diese Woche geduscht hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120628",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Geschwister du hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120629",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Puppen bei dir zu Hause sind."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120630",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele alkoholische Getränke du in den letzten vierundzwanzig Stunden getrunken hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120632",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele andere Länder du besucht hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120635",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Bücher du im letzten halben Jahr gelesen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120636",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden du an einem normalen Abend fernsiehst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120637",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du schon geschlagen wurdest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120638",
+   "isInRoomOnly": false,
+   "task": "Zeige einen Finger, wenn du bei deinem letzten Toilettengang ein kleines Geschäft gemacht hast, und zwei, wenn es ein großes war."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120639",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Finger du dir höchstens bequem in den Mund stecken könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120640",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Kilometer du an einem normalen Tag zu Fuß gehst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120642",
+   "isInRoomOnly": false,
+   "task": "Zeige eine gerade Anzahl an Fingern."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120643",
+   "isInRoomOnly": false,
+   "task": "Zeige eine ungerade Anzahl an Fingern."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120644",
+   "isInRoomOnly": true,
+   "task": "Zeige mehr als fünf, aber weniger als neun Finger."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120645",
+   "isInRoomOnly": true,
+   "task": "Zeige einen Finger für je zwanzig Zentimeter Körpergröße."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120646",
+   "isInRoomOnly": false,
+   "task": "Zeige eine Anzahl an Fingern, die du in diesem Spiel noch nicht gezeigt hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120744",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tattoos du hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120745",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, um wie viel Uhr du morgens aufwachst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120747",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du im Monat deine Bettwäsche wäschst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120748",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tage hintereinander du normalerweise dasselbe Handtuch benutzt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120751",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Monate dreißig Tage haben."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120752",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Bundesländer Österreich deiner Meinung nach hat."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120753",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Karten man beim Poker normalerweise ausgeteilt bekommt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120754",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Flaschen Wein bei dir zu Hause sind.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120756",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Jahre die Französische Revolution deiner Meinung nach gedauert hat."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120758",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du im Wald schon ein großes Geschäft gemacht hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120759",
+   "isInRoomOnly": false,
+   "task": "Zeige genauso viele Finger wie beim letzten Mal."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120760",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele verschiedene Beläge du normalerweise auf deiner Pizza bestellst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120761",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Fortsetzungen von „The Fast and the Furious“ es deiner Meinung nach gibt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120763",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis zehn an, wie begeistert du von einem Besuch einer Zaubershow wärst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120764",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, auf welchem Platz dein Nachname stehen würde, wenn man die Nachnamen aller Mitspieler alphabetisch sortiert."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120765",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Spieler beim Basketball für eine Mannschaft gleichzeitig auf dem Feld stehen."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120768",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Fünf-Euro-Scheine du gerade im Portemonnaie hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120769",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Taschen deine Kleidung gerade hat."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120770",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Spielekonsolen du besitzt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Zeige Finger an beiden Händen.",
+   "id": "120791",
+   "isInRoomOnly": true,
+   "task": "Zeige an deiner linken Hand so viele Finger, wie du möchtest, und an der rechten halb so viele."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120800",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Bundestagswahlen du schon miterlebt hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120802",
+   "isInRoomOnly": false,
+   "task": "Zeige eine ungerade Anzahl an Fingern, wenn dein Bauchnabel nach außen zeigt, und eine gerade, wenn er nach innen zeigt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120803",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, ab wie vielen Katzen jemand zu viele Katzen besitzt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120873",
+   "isInRoomOnly": true,
+   "task": "Halte die Finger hoch, die für dich „uwu“ ausdrücken. ;D."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Mache eine Geste mit einer Hand.",
+   "id": "120874",
+   "isInRoomOnly": true,
+   "task": "Erfinde eine Geste, die in Spanien wahrscheinlich etwas richtig SCHLIMMES bedeutet.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120877",
+   "isInRoomOnly": true,
+   "task": "Halte den Finger hoch, der eindeutig der Daddy ist.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120878",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du schon bei einer Geburt dabei warst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120879",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie dringend du gerade furzen musst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120890",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Messerstiche du wohl überleben könntest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120891",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du jemandem ernsthaft eine reingehauen hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Gib mit deinen Fingern eine Zahl von eins bis zehn an.",
+   "id": "120892",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Gebote du diese Woche gebrochen hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120894",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Mitglieder von Radiohead du namentlich kennst, du Freak."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120899",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele alkoholische Getränke du dir heute Abend reinzischen wirst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120904",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie vielen Menschen du schon „Ich liebe dich“ gesagt hast, ohne es zu meinen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120905",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du dich schon in die Partner deiner Freunde verliebt hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120906",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie sexy du A-cappella-Gesang findest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Mache eine Geste mit einer Hand.",
+   "id": "120907",
+   "isInRoomOnly": true,
+   "task": "Mache eine Geste, die ausdrückt: „Mir juckt die Rosette.“.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120927",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du ein Schwein im Streichelzoo umarmen könntest, bevor es seltsam wird.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Mache eine Geste mit zwei Händen.",
+   "id": "120949",
+   "isInRoomOnly": true,
+   "task": "Mache eine Geste, als würdest du einen riesigen Hotdog halten."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120950",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft dir deine heutigen Mitspieler schon IN DEN RÜCKEN GEFALLEN sind.",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "Gib mit deinen Fingern eine Zahl von eins bis zehn an.",
+   "id": "120953",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern in Tausenderschritten an, mit wie vielen Euro Schulden du leben könntest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120958",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Erzfeinde du hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120959",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie viel Bestätigung du als Erwachsener wegen deiner Erziehung brauchst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120962",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie anfällig du für eine Sekte wärst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120965",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie unauffällig du dich im Schritt kratzen kannst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120966",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele schwule Produktmaskottchen dir einfallen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120967",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Schachfiguren du dir in den Mund stecken könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120975",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden es dauern würde, bis diese Gruppe merkt, dass du fehlst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Mache eine Geste mit einer Hand.",
+   "id": "120977",
+   "isInRoomOnly": true,
+   "task": "Wenn du Gebärdensprache kannst, gebärde ein versautes Wort! Wenn nicht, schäm dich still in deiner Ecke.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120978",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie ehrlich dein Social-Media-Auftritt dein tatsächliches Leben widerspiegelt.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120981",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele ganze Kühe du in deinem Leben wahrscheinlich schon gegessen hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120986",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie nah du gerade an einer Existenzkrise bist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "Halte einen Finger hoch.",
+   "id": "120987",
+   "isInRoomOnly": true,
+   "task": "Halte den Finger hoch, den du am häufigsten ableckst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Mache eine Geste mit einer Hand.",
+   "id": "120988",
+   "isInRoomOnly": true,
+   "task": "Mache eine Geste, als würdest du einem Hund etwas aus dem Maul holen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120992",
+   "isInRoomOnly": false,
+   "starterContent": false,
+   "task": "Gib mit deinen Fingern an, wie oft du bei anderen Leuten schon die Toilette verstopft hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Mache eine Geste mit allen Fingern.",
+   "id": "120993",
+   "isInRoomOnly": true,
+   "isValid": "numGamesPlayedEver >= 2",
+   "task": "Wackle mit deinen Fingern, als wären sie ein Knäuel Schlangen … Genau so … HA HA HA HA … JA!"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121967",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, nach wie vielen Stunden Autofahrt eine Pause perfekt wäre."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121968",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Finger du für das Peace-Zeichen brauchst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121970",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden du brauchst, um deine Wohnung zu putzen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121971",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, auf wie viele Kinder du höchstens gleichzeitig aufpassen könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121972",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie dringend du gerade duschen müsstest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121973",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie gut du die Person rechts neben dir kennst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Mache eine Geste mit einer Hand.",
+   "id": "121975",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Halte deine Finger so, als wärst du ein Dreifinger-Faultier."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121976",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Cheeseburger du essen könntest, ohne zu kotzen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121977",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Finger du für die kleine Herzgeste aus dem K-Pop brauchst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122034",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Filme du schon vorzeitig im Kino verlassen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122035",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, bei wie vielen Reality-TV-Sendungen du viel zu sehr mitfieberst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122036",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Strafzettel du schon fürs Zuschnellfahren bekommen hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122037",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele tierische Produkte du heute gegessen hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122038",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Gepäckstücke du normalerweise mit in den Urlaub nimmst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122039",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Bases ein Baseballfeld hat."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122041",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Bretter du mit einem Karateschlag durchschlagen könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122043",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft du diesen Monat in einer Bankfiliale warst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122044",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele verschiedene Soßen und Gewürze auf einen Hotdog gehören."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122045",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Länder „Japan“ heißen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122046",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Donuts du in zwanzig Minuten ganz entspannt verputzen könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122047",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Kinder du später gern hättest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122048",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Pferde du schon besessen hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122049",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Minuten du die Luft anhalten kannst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122050",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Erzfeinde du bei der Arbeit hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122051",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Mitfahrer ohne Fahrer sicher in eine normale Limousine passen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122052",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie viele Schnäpse du dir an einem Abend vor einem Arbeitstag zutraust.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122053",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern an, wie oft ein Mensch mindestens pro Woche duschen sollte."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122054",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie viele Leute die perfekte Freundesgruppe hat."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122055",
+   "isInRoomOnly": true,
+   "task": "Gib mit deinen Fingern an, wie oft du diese Woche Zahnseide benutzt hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122125",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Mitglieder die Beatles ODER die Chainsmokers haben."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122134",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele ungelesene Nachrichten gerade auf deinem Handy sind."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122135",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie hungrig du gerade bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122137",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tiere du heute angefasst hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122138",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du den Film „Morbius“ gesehen hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122139",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du im letzten Jahr im Theater warst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122160",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, aus wie vielen Eiern dein Omelett bestehen sollte."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122161",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, an wie vielen Orten du schon gewohnt hast, zu denen ein Pool gehörte."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122166",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Kaffees du heute gekauft hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122170",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Telefonnummern du auswendig kennst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122171",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, um wie viel Uhr abends eine wilde Nacht beginnen sollte. Verwende die Zwölf-Stunden-Uhrzeit.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122174",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Sekunden ein Händedruck dauern sollte."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122184",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, mit wie vielen Hunden du persönlich befreundet bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122193",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden du täglich in sozialen Medien verbringst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122195",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Finger problemlos in deinen Bauchnabel passen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122198",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du schon operiert wurdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122199",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, in welchem Alter Kinder am ALLERNERVIGSTEN sind.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122200",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele religiöse Feiertage du regelmäßig feierst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122202",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Komplimente du bräuchtest, um zu glauben, dass deine neue Frisur gut aussieht."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122203",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Lieder man an einem gelungenen Karaoke-Abend singen sollte."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122205",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Punkte ein Grand Slam beim Baseball bringt.",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122225",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Bilder du diesen Monat online gepostet hast, auf denen du besonders heiß aussiehst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122257",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Wecker du stellen musst, um morgens aufzuwachen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122258",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Kissen auf deinem Bett liegen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122259",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tage man einen dreckigen Teller in der Spüle stehen lassen darf."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122261",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du schon per Nachricht Schluss gemacht hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122262",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du „All I Want for Christmas Is You“ hintereinander ertragen könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122264",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Instagram-Konten du hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122265",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden vor dem Abflug du am Flughafen bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122271",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft jemand „Bee-on-ze“ statt Beyoncé sagen dürfte, bevor du die Person korrigierst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122272",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie wahrscheinlich du dir eine empfohlene Serie tatsächlich anschaust."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122273",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Aufkleber auf deinem Laptop kleben."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122289",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie vorsichtig du dich einem Pferd näherst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122381",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele verschiedene Outfits du an einem normalen Tag trägst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122382",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Versuche du normalerweise für ein gutes Selfie brauchst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122385",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Nachrichten man seinem Schwarm schicken darf, ohne eine Antwort zu bekommen.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122387",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tage du nach einer Reise normalerweise brauchst, um deinen Koffer auszupacken."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122388",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Dating-Apps du schon ausprobiert hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122389",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Serien du dieses Jahr von Anfang bis Ende geschaut hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122390",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Mitglieder die Band BTS deiner Meinung nach hat."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122391",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele berühmte Menschen du persönlich kennst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122392",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du diese Woche deine Mutter angerufen hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122393",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Stunden du normalerweise in einem Kunstmuseum verbringen würdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122394",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Minuten du vor einer abgeschlossenen Toilette warten würdest, bevor du anklopfst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122397",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tage du ein Shirt tragen kannst, bevor es „dreckig“ ist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122406",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, an wie vielen Abenden pro Woche du dir Sport anschaust."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122407",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du schon von einem Nachrichtenmedium interviewt wurdest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122408",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Tage ein Junggesellinnenabschied höchstens dauern sollte.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122410",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Fischstücke du bei einer Portion Sashimi für 22 Euro erwarten würdest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122411",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Sekunden nach einer Beleidigung höchstens vergehen dürfen, damit eine schlagfertige Antwort noch wirkt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122428",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Viertklässler du freiwillig auf einem Ausflug beaufsichtigen würdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122434",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Immobilien jemand besitzen muss, damit die Person für dich WIRKLICH reich ist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122435",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, aus wie vielen Escape Rooms du schon erfolgreich entkommen bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122438",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, mit wie vielen Bällen du sicher jonglieren kannst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122439",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele Kuscheltiere auf einem Bett höchstens akzeptabel sind."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122441",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie viele verschiedene Haarfarben du schon hattest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122446",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Gib mit deinen Fingern an, wie oft du diesen Monat bei McDonald’s gegessen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122517",
+   "isInRoomOnly": false,
+   "task": "Gib mit deinen Fingern auf einer Skala von eins bis fünf an, wie viel du in normalen Gesprächen fluchst. Verdammt noch mal!",
+   "x": true
+  }
+ ]
+}

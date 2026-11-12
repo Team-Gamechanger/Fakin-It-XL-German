@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask0Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_0",
+   "n": "Task0Audio",
+   "s": "Ein Tier, das sich gut als Kuscheltier eignet"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask1Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_1",
+   "n": "Task1Audio",
+   "s": "Eine neue Idee für einen Batman-Bösewicht"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask2Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_2",
+   "n": "Task2Audio",
+   "s": "Ein Thema, über das du dir garantiert eine Doku anschauen würdest"
+  }
+ ]
+}

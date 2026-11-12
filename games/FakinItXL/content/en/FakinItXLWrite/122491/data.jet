@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask0Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_0",
+   "n": "Task0Audio",
+   "s": "Eine Serie, aus der du zitieren kannst"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask1Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_1",
+   "n": "Task1Audio",
+   "s": "Ein Tier, das einen eigenen Animationsfilm verdient hätte"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask2Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_2",
+   "n": "Task2Audio",
+   "s": "Ein Spruch, den du auf ein T-Shirt drucken lassen würdest"
+  }
+ ]
+}

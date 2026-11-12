@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask0Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_0",
+   "n": "Task0Audio",
+   "s": "Eine andere Art, „Hallo“ zu sagen"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask1Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_1",
+   "n": "Task1Audio",
+   "s": "Etwas, das du dir zum Geburtstag wünschst"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask2Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_2",
+   "n": "Task2Audio",
+   "s": "Ein Wort, mit dem man schlau klingen will"
+  }
+ ]
+}

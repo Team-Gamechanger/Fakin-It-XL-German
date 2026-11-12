@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Was würde dir das Gefühl geben, reich zu sein, wenn du es besitzen würdest?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf die Person, die im Flugzeug am meisten Panik bekommt."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Gib mit deinen Fingern an, wie viele Jahre die Französische Revolution deiner Meinung nach gedauert hat."
+  }
+ ]
+}

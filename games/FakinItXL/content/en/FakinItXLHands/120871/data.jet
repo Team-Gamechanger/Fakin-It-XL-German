@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Hebe die Hand, wenn es in deinem Haus ein Kissen gibt, das niemand außer dir benutzen darf."
+  }
+ ]
+}

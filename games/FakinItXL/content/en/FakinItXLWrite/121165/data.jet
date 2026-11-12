@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask0Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_0",
+   "n": "Task0Audio",
+   "s": "Das größte Schmuckstück, das du tragen würdest"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask1Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_1",
+   "n": "Task1Audio",
+   "s": "Der schlimmste Film, den man mit flüchtigen Bekannten schauen könnte"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask2Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_2",
+   "n": "Task2Audio",
+   "s": "Das sexyste Körperteil eines Elefanten"
+  }
+ ]
+}

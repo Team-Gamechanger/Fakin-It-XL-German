@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeit für ein Fashion-Statement! Welches Tier gäbe einen tollen Mantel ab?"
+  }
+ ]
+}

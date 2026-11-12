@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige eine ungerade Anzahl an Fingern, wenn dein Bauchnabel nach außen zeigt, und eine gerade, wenn er nach innen zeigt."
+  }
+ ]
+}

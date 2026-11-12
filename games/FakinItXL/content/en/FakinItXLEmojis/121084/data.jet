@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Wähle die Flagge des Landes, in das du als gesuchter Verbrecher fliehen würdest."
+  }
+ ]
+}

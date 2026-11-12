@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Wähle die Flagge eines Landes, in dem schon mal Olympische Spiele stattgefunden haben."
+  }
+ ]
+}

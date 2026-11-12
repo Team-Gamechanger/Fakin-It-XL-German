@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Wie guckst du, wenn jemand verkündet: „Setz dich, ich les dir ein paar Gedichte vor“?"
+  }
+ ]
+}

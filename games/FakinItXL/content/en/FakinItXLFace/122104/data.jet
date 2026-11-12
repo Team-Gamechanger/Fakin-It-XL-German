@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Schau so, als wärst du eine Katze, die draußen vor dem Fenster einen Vogel entdeckt."
+  }
+ ]
+}

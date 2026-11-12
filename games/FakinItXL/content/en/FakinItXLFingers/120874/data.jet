@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Erfinde eine Geste, die in Spanien wahrscheinlich etwas richtig SCHLIMMES bedeutet."
+  }
+ ]
+}

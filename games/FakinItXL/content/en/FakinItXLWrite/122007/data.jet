@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask0Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_0",
+   "n": "Task0Audio",
+   "s": "Ein Kerzenduft, der dir gefallen würde"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask1Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_1",
+   "n": "Task1Audio",
+   "s": "Eine Filmfigur, die du richtig gruselig findest"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTask2Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_2",
+   "n": "Task2Audio",
+   "s": "Jemand mit einer tollen Gesangsstimme"
+  }
+ ]
+}

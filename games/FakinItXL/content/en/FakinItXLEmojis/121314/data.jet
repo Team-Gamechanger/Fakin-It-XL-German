@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Welches Emoji würdest du schicken, um zu sagen: „Wenn’s dir schlecht geht, bin ich für dich da“?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Welche Sportart würde selbst ein sportlicher Hund wie Air Bud nicht überleben?"
+  }
+ ]
+}

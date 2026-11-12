@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Gib mit deinen Fingern an, wie oft dir deine heutigen Mitspieler schon IN DEN RÜCKEN GEFALLEN sind."
+  }
+ ]
+}

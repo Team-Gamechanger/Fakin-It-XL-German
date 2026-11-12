@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Mit welchem Symbol würdest du dich als „die Person, die früher unter deinem Namen bekannt war“ bezeichnen?"
+  }
+ ]
+}

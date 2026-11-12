@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige an deiner linken Hand so viele Finger, wie du möchtest, und an der rechten halb so viele."
+  }
+ ]
+}

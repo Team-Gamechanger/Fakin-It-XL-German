@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Hebe die Hand, wenn du in einer Parallelwelt, in der du Eier legen kannst, diese Eier selbst essen würdest."
+  }
+ ]
+}

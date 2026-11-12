@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf die Person, mit der du am liebsten auf einer einsamen Insel feststecken würdest."
+  }
+ ]
+}

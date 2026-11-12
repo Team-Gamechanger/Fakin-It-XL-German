@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf die Person, die glaubt, dass die reichen Leute die Hauptfiguren im Film „Parasite“ sind."
+  }
+ ]
+}

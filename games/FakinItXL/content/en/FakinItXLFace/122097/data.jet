@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Schau so, als würde dir gerade einfallen, dass du ein Ei zum Kochen aufgesetzt hast … vor einer Stunde."
+  }
+ ]
+}

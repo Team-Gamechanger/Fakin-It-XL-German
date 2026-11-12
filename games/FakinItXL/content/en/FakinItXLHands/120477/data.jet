@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Hebe die Hand, wenn dir im Kino schon mal jemand gesagt hat, dass du still sein sollst."
+  }
+ ]
+}

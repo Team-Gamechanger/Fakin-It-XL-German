@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Von welchem Tier würdest du dich beißen lassen wollen, um seine Fähigkeiten zu bekommen?"
+  }
+ ]
+}

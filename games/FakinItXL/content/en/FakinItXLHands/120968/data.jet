@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Hebe die Hand, wenn du schon mal davon geträumt hast, was du dir beim Tod eines Familienmitglieds vom Erbe kaufen würdest."
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121639",
+   "task": "Schau so, als würdest du deinen Eltern helfen, ihren Computer einzurichten."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121642",
+   "task": "Schau so, als würdest du erfahren, dass Gott eine Frau ist.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121644",
+   "task": "Schau so, als hättest du im Lotto gewonnen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121645",
+   "task": "Schau so, als hättest du bei einem Vorstellungsgespräch gefurzt.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121646",
+   "task": "Schau so, als würdest du ein episches Gitarrensolo spielen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121647",
+   "task": "Schau so, als würdest du Ukulele spielen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121648",
+   "task": "Schau so, als wärst du mitten auf einer Karnevalsparty.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121649",
+   "task": "Schau so, als wärst du der Faker."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121651",
+   "task": "Schau so, als würde sich dein Erzfeind aus Kindertagen bei dir entschuldigen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121654",
+   "task": "Schau so, als würdest du plötzlich ganz entspannten Jazz hören."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121656",
+   "task": "Schau so, als hättest du einen Mordfall gelöst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121657",
+   "task": "Schau so, als wärst du auf einem Klassentreffen.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": false,
+   "fakerHint": "",
+   "id": "121658",
+   "task": "Schau so, als würdest du Frosty dem Schneemann beim Schmelzen zusehen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121659",
+   "task": "Schau so, als wäre deine Kreditkarte während eines Dates abgelehnt worden.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121661",
+   "task": "Schau so, als hättest du einen Jahresvorrat Thunfisch gewonnen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121662",
+   "task": "Schau so, als würdest du ein Schaumbad nehmen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121663",
+   "task": "Schau so, als würdest du in einem schlimmen Stau stehen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121665",
+   "task": "Schau so, als wärst du ein fauler Hund."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121667",
+   "task": "Schau so, wie du normalerweise freitagabends schaust."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121668",
+   "task": "Schau so, wie du normalerweise schaust, wenn du krank bist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121669",
+   "task": "Schau so, als hätte dein Handy gerade kein Netz."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121670",
+   "task": "Schau so, als wärst du in einem verlassenen Krankenhaus aufgewacht."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121671",
+   "task": "Schau so, als hättest du dich gerade beim Lügen erwischen lassen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121672",
+   "task": "Schau so, als hättest du mit deinem Außenseiterteam die reichen Schnösel besiegt und damit eure Rollschuhbahn gerettet."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121673",
+   "task": "Schau so, als würdest du einen Furz zurückhalten."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121674",
+   "task": "Schau so, als würdest du in der ersten Reihe einer Improshow sitzen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121675",
+   "task": "Schau so, als würdest du das Baby eines Freundes halten."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121677",
+   "task": "Schau so, als würdest du bei einem Autorennen zuschauen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121679",
+   "task": "Schau so, als hättest du jemanden entdeckt, mit dem du nicht reden möchtest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121680",
+   "task": "Schau so, als würdest du entspannt am Strand liegen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121681",
+   "task": "Schau so, als hätte dir der Kellner gesagt, dass es nur Pepsi-Produkte gibt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121682",
+   "task": "Schau so, als hätte jemand vorgeschlagen, Monopoly zu spielen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121683",
+   "task": "Schau so, als wärst du ein Superheld."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121684",
+   "task": "Schau so, als würdest du auf einem Rodeo-Bullen reiten."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121685",
+   "task": "Schau so, als wärst du bereit für Party."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121686",
+   "task": "Schau so, wie du auf der Tanzfläche schaust."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121688",
+   "task": "Schau so, als würdest du in einem Whirlpool sitzen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121689",
+   "task": "Schau so, als hättest du zu viel gegessen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121690",
+   "task": "Schau so, als würdest du gerade Eiskunstlauf machen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121691",
+   "task": "Schau so, als würdest du dich an einem schlafenden Bären vorbeischleichen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121692",
+   "task": "Schau so, als würdest du bei einer Geburt zusehen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121694",
+   "task": "Schau so, als würdest du trainieren."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121695",
+   "task": "Schau so, als wären alle in dieser Runde nackt.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121696",
+   "task": "Schau so, als würdest du eine schwere Matheaufgabe lösen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121697",
+   "task": "Schau so, als würdest du jemanden verführen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121698",
+   "task": "Schau so, als wäre deine Unterwäsche zu eng.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121699",
+   "task": "Schau so, als hättest du von der ganzen Sache endgültig GENUG."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121701",
+   "task": "Schau so, als hätte dir jemand einen furchtbaren Witz erzählt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121703",
+   "task": "Schau so, als hättest du zu viel Kaffee getrunken."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121704",
+   "task": "Schau so, als würde dir jemand ein schockierendes Geheimnis erzählen, das du heimlich schon kanntest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121705",
+   "task": "Mache dein bestes Pokerface."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121706",
+   "task": "Schau so, als würdest du bei zweiunddreißig Grad aus dem Haus treten."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121707",
+   "task": "Schau so, als würden lauter Welpen auf dir herumkrabbeln."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "121708",
+   "task": "Schau so, als würde das Finanzamt deine Steuererklärung überprüfen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121710",
+   "task": "Schau so, als würdest du jemanden hypnotisieren."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121711",
+   "task": "Schau so, als würdest du Tuba spielen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121712",
+   "task": "Schau so, als wolltest du die Aufmerksamkeit des Barkeepers bekommen.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121713",
+   "task": "Schau so, als wärst du in einer Kunstgalerie voller eingebildeter Leute."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121716",
+   "task": "Schau so, als würdest du mit jemandem Schluss machen.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121717",
+   "task": "Schau so, als wärst du ein professioneller Zauberkünstler."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121718",
+   "task": "Schau so, als würdest du dich gerade für einen Kuss vorbeugen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121719",
+   "task": "Schau so, als hätte dich dein bester Freund gerade verraten."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121720",
+   "task": "Schau so, als wärst du unter Wasser."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121721",
+   "task": "Schau so, als hättest du eine Lebensmittelvergiftung."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121722",
+   "task": "Schau so, als wärst du Frankensteins Monster."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121723",
+   "task": "Schau so, als wärst du ein launischer Teenager."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121724",
+   "task": "Schau so, als würdest du gemütlich vor einem Kaminfeuer kuscheln."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121726",
+   "task": "Schau so, als würdest du in drei Sekunden die gesamte Pubertät durchmachen.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121727",
+   "task": "Schau so, als würdest du versuchen, einen Bleistift mit Gedankenkraft schweben zu lassen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121728",
+   "task": "Schau so, als würdest du gleich jemanden feuern."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121730",
+   "task": "Schau so, als würdest du jemanden aus dieser Runde für einen Mörder halten.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121731",
+   "task": "Schau so, als hättest du vom Eisessen einen Kältekopfschmerz."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121732",
+   "task": "Schau so, als hättest du eine Million Euro auf eine Runde Roulette gesetzt.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121734",
+   "task": "Schau so, als würdest du ein Geschenk deiner Großmutter auspacken."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121735",
+   "task": "Schau so, wie du auf deinem Schulfoto geschaut hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121737",
+   "task": "Mach irgendeinen Gesichtsausdruck, aber halte dabei die Augen geschlossen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121738",
+   "task": "Schau so, als hättest du bei der Oscarverleihung verloren."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121739",
+   "task": "Schau so, als müsstest du heimlich ganz dringend pinkeln."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121740",
+   "task": "Schau so, als würdest du zum ersten Mal den Grand Canyon sehen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121741",
+   "task": "Schau so, als würdest du sehen, wie Wiener Würstchen hergestellt werden."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121742",
+   "task": "Schau so, als wärst du in einem FKK-Resort.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121744",
+   "task": "Schau so, als würdest du mit deinen Eltern einen schmutzigen Film schauen.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121745",
+   "task": "Schau so, wie du normalerweise montagmorgens schaust."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121746",
+   "task": "Schau so, als wärst du in Frankreich."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121747",
+   "task": "Mach einen unwiderstehlich sexy Gesichtsausdruck.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121748",
+   "task": "Schau so, als würdest du im Gefängnis deinen neuen Zellengenossen kennenlernen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121749",
+   "task": "Schau so, als würdest du Achterbahn fahren."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121750",
+   "task": "Schau so, als würdest du ein Fußballspiel anschauen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121752",
+   "task": "Schau so, als würdest du eine Massage bekommen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121753",
+   "task": "Schau so, als wärst du in einer Wahlkabine.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121754",
+   "task": "Schau so, als würdest du ein Kätzchen streicheln."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121983",
+   "starterContent": true,
+   "task": "Schau so, als hättest du Jahre allein in den kalten Weiten des Weltalls verbracht."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121984",
+   "starterContent": true,
+   "task": "Schau so, als hätte dir dein Kind Frühstück ans Bett gebracht – und alles wäre voller Eierschalen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121985",
+   "starterContent": true,
+   "task": "Schau so, als wärst du ein verrückter Wissenschaftler, der ENDLICH eine Leiche wiederbelebt.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121986",
+   "starterContent": true,
+   "task": "Schau so, als wärst du ein echtes Reh im Licht echter Autoscheinwerfer."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121987",
+   "starterContent": true,
+   "task": "Schau so, als hättest du gerade einen Nierenstein ausgeschieden.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121989",
+   "starterContent": true,
+   "task": "Schau so, als wärst du einer fünfzehn Meter großen Frau begegnet."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121991",
+   "starterContent": true,
+   "task": "Schau so, als würde dir jemand ein Kaninchenbaby schenken."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121992",
+   "starterContent": true,
+   "task": "Schau so, als würdest du der Liebe deines Lebens beim Heiraten zusehen … aus der letzten Reihe.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121993",
+   "starterContent": true,
+   "task": "Schau so, als würdest du mit deiner Hochzeitsrede gerade richtig abräumen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "121995",
+   "starterContent": true,
+   "task": "Schau so, als würdest du in einem brütend heißen Maskottchenkostüm stecken."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122096",
+   "task": "Schau so, als wäre die Rechnung viel höher als erwartet."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122097",
+   "task": "Schau so, als würde dir gerade einfallen, dass du ein Ei zum Kochen aufgesetzt hast … vor einer Stunde."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122098",
+   "task": "Schau so, als hättest du dir gerade ganz sicher den Gaumen verbrannt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122099",
+   "task": "Schau so, als wäre dein Handyakku leer und du müsstest jetzt einfach nur … existieren."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122100",
+   "task": "Schau so, als hättest du gerade eine Freundschaftsanfrage von deinem Ex bekommen.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122101",
+   "task": "Schau so, als hättest du gerade gehört, dass jemand ganz schwer in dich verknallt ist.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122102",
+   "task": "Schau so, als würdest du in der U-Bahn nur so tun, als würdest du lesen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122103",
+   "task": "Schau so, als würdest du im 19. Jahrhundert für ein Foto posieren."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122104",
+   "task": "Schau so, als wärst du eine Katze, die draußen vor dem Fenster einen Vogel entdeckt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122105",
+   "task": "Schau so, als wärst du berühmt und ein Fan würde dich auf der Straße ansprechen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122106",
+   "task": "Schau so, als wärst du ein Hund im Tierheim und alle anderen Tiere würden vor dir vermittelt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122107",
+   "task": "Schau so, als wärst du gerade vor aller Augen hingefallen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122108",
+   "task": "Schau so, als würdest du sehen, wie jemand den Haufen seines Hundes einfach liegen lässt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122109",
+   "task": "Schau so, als wäre plötzlich ein Vogel in deiner Wohnung."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122110",
+   "task": "Schau so, als würdest du aufwachen und feststellen, dass du IMMER NOCH in einer Zeitschleife steckst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122111",
+   "task": "Schau so, als wäre dein Zahnarzt von deiner Mundhygiene enttäuscht."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122112",
+   "task": "Schau so, als würdest du merken, dass die älteren Herren neben dir zur Band „Die Ärzte“ gehören."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122113",
+   "task": "Schau so, als würde in deinem Gebäude gerade der Feueralarm losgehen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122114",
+   "task": "Schau so, als würdest du eine wahnsinnig spannende Naturdoku sehen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122115",
+   "task": "Schau so, als wärst du fünf und könntest deine Mama im Supermarkt nicht finden."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122124",
+   "starterContent": true,
+   "task": "Schau so, als hätte dir jemand gerade den Parkplatz weggeschnappt, auf den du gewartet hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122126",
+   "starterContent": true,
+   "task": "Schau so, als wäre das persönliche Eheversprechen des Bräutigams seltsam erotisch.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122127",
+   "starterContent": true,
+   "task": "Schau so, als hättest du deinen Friseur gerade leise „Ups“ sagen hören."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122129",
+   "starterContent": true,
+   "task": "Schau so, als müsstest du gleich deinen Freund erlösen, der gerade zum Zombie geworden ist.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122130",
+   "starterContent": true,
+   "task": "Schau so, als würden alle den Film vollquatschen, den du angemacht hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122131",
+   "starterContent": true,
+   "task": "Schau so, als hättest du durchschaut, wie der Zaubertrick funktioniert."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122132",
+   "starterContent": true,
+   "task": "Schau so, als wärst du sechzehn Minuten zu spät und dein reservierter Tisch wäre schon vergeben."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122133",
+   "starterContent": true,
+   "task": "Schau so, als würde dir deine Tochter ihren neuen Freund vorstellen – eine Handpuppe.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122146",
+   "starterContent": true,
+   "task": "Schau so, als würdest du in einem voll besetzten Aufzug furzen."
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122147",
+   "starterContent": true,
+   "task": "Schau so, als hätte dich dein Date zu einem Ritteressen eingeladen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122148",
+   "starterContent": true,
+   "task": "Schau so, als wolltest du auf keinen Fall von einem Spendenwerber auf der Straße angesprochen werden."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122149",
+   "starterContent": true,
+   "task": "Schau so, als hättest du gerade an einer Dose mit drei Tage altem Thunfischsalat gerochen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122150",
+   "starterContent": true,
+   "task": "Schau so, als würdest du der Liebe deines Lebens gerade einen Heiratsantrag machen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122151",
+   "starterContent": true,
+   "task": "Schau so, als würdest du feststellen, dass du im Flugzeug zwischen zwei Babys sitzt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122152",
+   "starterContent": true,
+   "task": "Schau so, als hättest du gerade einen Spagat gemacht."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122153",
+   "starterContent": true,
+   "task": "Schau so, als hättest du mit dem Greifautomaten tatsächlich ein Spielzeug erwischt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122156",
+   "starterContent": true,
+   "task": "Schau so, als würdest du versuchen, einen viel zu großen Bissen zu kauen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122157",
+   "starterContent": true,
+   "task": "Schau so, als hätte dir ein Esel mit voller Wucht gegen den Kopf getreten."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122158",
+   "starterContent": true,
+   "task": "Schau so, als würde dir der Kellner gerade Käse über die Nudeln reiben."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122159",
+   "starterContent": true,
+   "task": "Schau so, als würdest du denselben Werbespot heute schon zum 804. Mal sehen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122241",
+   "starterContent": true,
+   "task": "Schau so, als hätte dir gerade jemand ins Gesicht gespuckt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122242",
+   "starterContent": true,
+   "task": "Schau so, als würde das Anschneiden der Geburtstagstorte eeeeeewig dauern."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122243",
+   "starterContent": true,
+   "task": "Schau so, als wärst du gerade auf dem besten Konzert deines Lebens."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122244",
+   "starterContent": true,
+   "task": "Schau so, als würde dir gerade jemand einen Heiratsantrag machen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122245",
+   "starterContent": true,
+   "task": "Schau so, als würdest du hinter einer sehr … sehr … langsamen … Person herlaufen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122276",
+   "starterContent": true,
+   "task": "Schau so, als würdest du im Freizeitpark schon zum dritten Mal dieselbe Bootsfahrt mit demselben nervigen Lied machen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122278",
+   "starterContent": true,
+   "task": "Schau so, als würde jemand eine Sportart „Sportball“ nennen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122279",
+   "starterContent": true,
+   "task": "Schau so, als würdest du auf dem roten Teppich für eine Zeitlupenkamera posieren."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122280",
+   "starterContent": true,
+   "task": "Schau so, als würde jemand hier Kermit den Frosch nicht kennen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122287",
+   "starterContent": true,
+   "task": "Schau so, als hättest du mit einem Basketballwurf von der Mittellinie gerade ein Auto gewonnen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122293",
+   "starterContent": true,
+   "task": "Schau so, als würdest du merken, dass du gerade auf der großen Stadionleinwand zu sehen bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122296",
+   "starterContent": true,
+   "task": "Schau so, als würde das Restaurantpersonal dir gerade „Happy Birthday“ vorsingen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122299",
+   "starterContent": true,
+   "task": "Schau so, als hättest du gerade Essensreste unten im Spülbecken angefasst."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf die Person, der man anmerkt, dass sie in der Grundschule immer vorne in der Zweierreihe laufen durfte."
+  }
+ ]
+}

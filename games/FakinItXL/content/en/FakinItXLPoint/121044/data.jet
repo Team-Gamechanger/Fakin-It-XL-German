@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf die Person, die nach einem Spinnenbiss in ein aberwitziges Hellseherei-Wirrwarr geraten würde."
+  }
+ ]
+}

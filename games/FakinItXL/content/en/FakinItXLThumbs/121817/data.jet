@@ -1,0 +1,37 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasTask0Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_0",
+   "n": "Task0Audio",
+   "s": "Deinen Hund auf den Mund küssen"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasTask1Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_1",
+   "n": "Task1Audio",
+   "s": "Deinen Vater auf den Mund küssen"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasTask2Audio"
+  },
+  {
+   "t": "A",
+   "v": "tasks_2",
+   "n": "Task2Audio",
+   "s": "Deinen Partner auf den Mund küssen"
+  }
+ ]
+}

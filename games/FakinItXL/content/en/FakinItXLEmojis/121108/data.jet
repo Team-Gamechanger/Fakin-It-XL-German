@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Was willst du im Sandkasten auf dem Spielplatz definitiv nicht ausbuddeln?"
+  }
+ ]
+}

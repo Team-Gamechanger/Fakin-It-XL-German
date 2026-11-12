@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf die Person, die diese Aufgabe am schnellsten im Kopf lösen kann: (34 x 5) / 2 = ???"
+  }
+ ]
+}

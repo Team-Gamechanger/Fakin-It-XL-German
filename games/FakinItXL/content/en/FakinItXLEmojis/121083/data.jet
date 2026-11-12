@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Wie guckst du, wenn Onkel Dieter erzählt, dass der Klimawandel eine Erfindung der Grünen ist?"
+  }
+ ]
+}

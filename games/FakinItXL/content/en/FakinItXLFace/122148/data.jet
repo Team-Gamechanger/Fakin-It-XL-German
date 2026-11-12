@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Schau so, als wolltest du auf keinen Fall von einem Spendenwerber auf der Straße angesprochen werden."
+  }
+ ]
+}

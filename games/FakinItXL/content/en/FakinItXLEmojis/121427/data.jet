@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Für welchen Ausblick aus deinem Hotelzimmer würdest du einen Aufpreis bezahlen?"
+  }
+ ]
+}

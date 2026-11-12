@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "An der Ampel sitzt im Auto neben dir ein echtes Leckerchen. Was wirfst du rüber, um auf dich aufmerksam zu machen?"
+  }
+ ]
+}

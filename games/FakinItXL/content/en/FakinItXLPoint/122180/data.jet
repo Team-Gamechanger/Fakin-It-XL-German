@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Zeige auf einen Gegenstand im Raum, den du als Waffe benutzen würdest, wenn hier ein Battle Royale ausbrechen würde."
+  }
+ ]
+}

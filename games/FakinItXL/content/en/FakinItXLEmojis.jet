@@ -1,0 +1,1387 @@
+{
+ "content": [
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "120908",
+   "task": "Welches Objekt solltest du dir UNTER KEINEN UMSTÄNDEN in den Mund schieben?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "120910",
+   "task": "Was kann eine heftige politische Diskussion auslösen?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "120911",
+   "task": "Was sollte man am besten feucht servieren?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Emoji von etwas Schönem aus.",
+   "id": "121015",
+   "task": "Wie würde dein großes Geschäft in einer perfekten Welt duften?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Personen- oder Tier-Emoji aus.",
+   "id": "121024",
+   "task": "Bei welchem Tier lachst du dich kaputt, wenn es dich frisst?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein beliebiges cooles Emoji aus.",
+   "id": "121025",
+   "task": "Welches Emoji wäre das perfekte Arschgeweih?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121054",
+   "task": "Auf welchen Gegenstand würdest du dich setzen, um gewisse Gefühle zu bekommen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "121055",
+   "task": "Welches Tier würdest du am liebsten auf den Mond schießen?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121056",
+   "task": "Wie guckst du, wenn dein Schnucki zum dritten Date einen Papagei in die Bar mitbringt?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein beliebiges Emoji aus.",
+   "id": "121060",
+   "task": "Welches Emoji würdest du NIEMALS deinen Eltern schicken?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121061",
+   "task": "Wie guckst du hoffentlich, wenn du stirbst?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "121064",
+   "task": "Welches exotische Tier würde bestimmt gut auf der Pizza schmecken?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121065",
+   "task": "Was futterst du so oft, dass du davon langfristig Gesundheitsprobleme kriegen könntest?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Verkehrsmittel-Emoji aus.",
+   "id": "121066",
+   "task": "Oh, oh! Du wirst überfahren! Welches Fahrzeug soll dich plätten?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121067",
+   "task": "Welches Objekt wird nach der Apokalypse hoffentlich zur offiziellen Währung?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Emoji aus, das du schön findest.",
+   "id": "121069",
+   "task": "Welches Bild soll deinen Grabstein zieren?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121071",
+   "task": "An welchem Lebensmittel könnte man besonders leicht ersticken?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Kleidungs-Emoji aus.",
+   "id": "121072",
+   "task": "Aus welchem Outfit lässt sich kinderleicht ein sexy Halloween-Kostüm zaubern?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "121073",
+   "task": "Ohne welches Tier wäre die Welt besser dran?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens- oder Getränke-Emoji aus.",
+   "id": "121074",
+   "task": "Mit welchem vergifteten Nahrungsmittel würdest du deinen größten Feind um die Ecke bringen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121075",
+   "task": "Wie guckst du, wenn die Sex-Playlist deines Dates aus Marschmusik besteht?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121077",
+   "task": "Welchen Gegenstand findet man in der Wohnung eines Serienmörders?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121078",
+   "task": "Welches Emoji könntest du in einer Schlägerei lässig aufmischen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121079",
+   "task": "Wer würde sein Kind Schackeline nennen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121080",
+   "task": "Welches Emoji verkauft mit ziemlicher Sicherheit Organe auf dem Schwarzmarkt?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Kleidungs-Emoji aus.",
+   "id": "121082",
+   "task": "Welches gewagte Kleidungsstück trägst du zur Beerdigung deines größten Hassmenschen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121083",
+   "task": "Wie guckst du, wenn Onkel Dieter erzählt, dass der Klimawandel eine Erfindung der Grünen ist?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121084",
+   "task": "Wähle die Flagge des Landes, in das du als gesuchter Verbrecher fliehen würdest.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121085",
+   "task": "Welches Emoji hat keine engen Freunde, bei denen es sich aussprechen kann?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121086",
+   "task": "Welches Emoji lässt sich nicht anmerken, dass es eigentlich krasse Depressionen hat?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121087",
+   "task": "Bei welchem Emoji würdest du hundertprozentig den Dünnschiss deines Lebens bekommen?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Aktivitäts-Emoji aus.",
+   "id": "121088",
+   "task": "Welche Aktivität wäre beim ersten Date absolut NICHT dein Fall?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Emoji aus, das ein Gefühl ausdrückt.",
+   "id": "121090",
+   "task": "Welches Emoji ist das Sinnbild deiner schlimmsten Trennung?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Getränke- oder Hobby-Emoji aus.",
+   "id": "121094",
+   "task": "Was genießt du in vollen Zügen, obwohl es nicht gut für dich ist?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Verkehrsmittel-Emoji aus.",
+   "id": "121095",
+   "task": "Welcher Gegenstand zeigt, dass du zur Mittelschicht gehörst?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier- oder Objekt-Emoji aus.",
+   "id": "121096",
+   "task": "Als welches Tier oder als welcher Gegenstand würdest du gern wiedergeboren werden?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Tier-Emoji aus.",
+   "id": "121097",
+   "task": "Welches Geschenk impliziert: „Aus dieser Beziehung ist die Luft raus“?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121098",
+   "task": "Mit welchem permanenten Gesichtsausdruck könntest du den Rest deiner Tage leben?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121099",
+   "task": "Wie guckst du, wenn jemand verkündet: „Setz dich, ich les dir ein paar Gedichte vor“?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121100",
+   "task": "Welches Emoji schreit geradezu „Loser“?",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Tier-Emoji aus.",
+   "id": "121101",
+   "task": "Was würdest du deinem Ex am liebsten vor die Tür legen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121103",
+   "task": "Wie guckst du, wenn dein Date dir die Filme von Quentin Tarantino bis ins kleinste Detail erklärt?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121104",
+   "task": "Wie guckst du, wenn sich dein brandneuer Lover 3.000 € von dir leihen möchte?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Gebäude- oder Orts-Emoji aus.",
+   "id": "121105",
+   "task": "Wo solltest du dich mit deinem Online-Date lieber nicht treffen?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Tier-Emoji aus.",
+   "id": "121106",
+   "task": "Was darf auf keinen Fall mit deinem Auto kollidieren?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "121107",
+   "task": "Welches Tier gäbe ein sexy Muppet ab? (Ja, noch heißer als Miss Piggy!).",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121108",
+   "task": "Was willst du im Sandkasten auf dem Spielplatz definitiv nicht ausbuddeln?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Körperteil-Emoji aus.",
+   "id": "121109",
+   "task": "Welches Körperteil würdest du am liebsten durch eine Roboterprothese ersetzen?",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "121110",
+   "task": "Zeit für ein Fashion-Statement! Welches Tier gäbe einen tollen Mantel ab?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Verkehrsmittel- oder Personen-Emoji aus.",
+   "id": "121111",
+   "task": "Welches Emoji ist richtig krass macho?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121112",
+   "task": "Wähle die Flagge des Landes mit dem sexysten Akzent.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Sport- oder Hobby-Emoji aus.",
+   "id": "121113",
+   "task": "Bei welcher Sportart würdest du stark bluten, wenn du sie jetzt sofort ausprobieren würdest?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol- oder Form-Emoji aus.",
+   "id": "121114",
+   "task": "Welches Symbol einer neuen Religion würde dich spirituell faszinieren?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts- oder Personen-Emoji aus.",
+   "id": "121115",
+   "task": "Welches Emoji symbolisiert den nervtötendsten Aspekt deiner Persönlichkeit?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Personen-Emoji aus.",
+   "id": "121116",
+   "task": "Was würde dir besorgte Blicke einbringen, wenn man es in deinem Kofferraum finden würde?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Objekt- oder Essens-Emoji aus.",
+   "id": "121117",
+   "task": "An der Ampel sitzt im Auto neben dir ein echtes Leckerchen. Was wirfst du rüber, um auf dich aufmerksam zu machen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121119",
+   "task": "Du musst Cäsar in den Rücken fallen, aber dir sind die Dolche ausgegangen! Womit bringst du ihn jetzt um?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Sportler- oder Sport-Emoji aus.",
+   "id": "121120",
+   "starterContent": false,
+   "task": "Welche Sportart würde selbst ein sportlicher Hund wie Air Bud nicht überleben?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol-Emoji aus.",
+   "id": "121122",
+   "task": "Welches Symbol würdest du in den Grabstein deines Feindes ritzen?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121179",
+   "task": "Was könnte eine Familienfeier so richtig gegen die Wand fahren lassen?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121180",
+   "task": "Was möchtest du nicht vor deinem Haus finden, weil das ziemlich besorgniserregend wäre?",
+   "x": false
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Essens-, Getränke- oder Objekt-Emoji aus.",
+   "id": "121182",
+   "task": "Was findet man in der Wohnung eines Hetero-Singles?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Tier-, Natur- oder Objekt-Emoji aus.",
+   "id": "121183",
+   "task": "Welche Art von Geschenken sollte gesetzlich verboten werden?",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121314",
+   "starterContent": true,
+   "task": "Welches Emoji würdest du schicken, um zu sagen: „Wenn’s dir schlecht geht, bin ich für dich da“?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Gesichts-, Personen-, Essens- oder Objekt-Emoji aus.",
+   "id": "121315",
+   "starterContent": true,
+   "task": "Welches Emoji verbindest du besonders stark mit deinem Lieblingsfilm?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Aktivitäts-Emoji aus.",
+   "id": "121343",
+   "starterContent": true,
+   "task": "Welche Sportart findest du am sexysten?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121344",
+   "starterContent": true,
+   "task": "Mit welchem Haushaltsgegenstand würdest du dich gegen Einbrecher verteidigen?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Kleidungs-Emoji aus.",
+   "id": "121345",
+   "starterContent": true,
+   "task": "Welches Kleidungsstück wäre bei einem ersten Date ungewöhnlich?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Spiel- oder Aktivitäts-Emoji aus.",
+   "id": "121346",
+   "starterContent": true,
+   "task": "Bei welchem Spiel oder welcher Aktivität würdest du dich garantiert NICHT verletzen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121347",
+   "starterContent": true,
+   "task": "Welches Emoji würdest du beim Schreiben mit deinen Großeltern benutzen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Personen-Emoji aus.",
+   "id": "121348",
+   "starterContent": true,
+   "task": "Welches Emoji könntest du deinem Friseur zeigen und sagen: „So will ich aussehen!“?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Personen-Emoji aus.",
+   "id": "121387",
+   "starterContent": true,
+   "task": "Du sitzt im Gefängnis und hast einen Anruf frei. Welches Emoji würdest du um Hilfe bitten?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121390",
+   "starterContent": true,
+   "task": "Welches Emoji willst du auf KEINEN Fall als Antwort auf eine anzügliche Nachricht bekommen?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Hand-Emoji aus.",
+   "id": "121391",
+   "starterContent": true,
+   "task": "Welche Geste würdest du machen, wenn du einen komplizierten Weg beschreibst?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121392",
+   "starterContent": true,
+   "task": "Welchen Gegenstand benutzt du jeden Tag?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121393",
+   "starterContent": true,
+   "task": "Welchen Gegenstand könntest du deinem Chef bedenkenlos schenken?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121399",
+   "starterContent": true,
+   "task": "Was würdest du am Buffet NIEMALS essen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121400",
+   "starterContent": true,
+   "task": "Welchen Gesichtsausdruck hättest du, wenn ein Showkoch dir eine Garnele zuwerfen würde?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol-Emoji aus.",
+   "id": "121402",
+   "starterContent": true,
+   "task": "Welches Symbol könntest du dir irgendwo auf deinem Körper tätowieren lassen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121409",
+   "starterContent": true,
+   "task": "Welcher Gegenstand wäre bei einer Geisterjagd nützlich?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121410",
+   "starterContent": true,
+   "task": "Was könnte man auf einer Achterbahn nur schwer essen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121412",
+   "starterContent": true,
+   "task": "Welches Gesicht sagt: „Zeit für Party!“?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121419",
+   "starterContent": true,
+   "task": "Welchen Gesichtsausdruck sollte deine Braut beim Gang zum Altar lieber NICHT machen?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Personen-Emoji aus.",
+   "id": "121421",
+   "starterContent": true,
+   "task": "Welcher unerwartete Besuch vor deiner Haustür würde dich richtig schockieren?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121423",
+   "starterContent": true,
+   "task": "Was könnte dich morgens aufwecken?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121425",
+   "starterContent": true,
+   "task": "Welchen Gegenstand könntest du problemlos mit deinen Zähnen bedienen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Wahrzeichen- oder Orts-Emoji aus.",
+   "id": "121427",
+   "starterContent": true,
+   "task": "Für welchen Ausblick aus deinem Hotelzimmer würdest du einen Aufpreis bezahlen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121429",
+   "starterContent": true,
+   "task": "Welches Essen wäre bei einer Essensschlacht der schlimmste Treffer?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121431",
+   "starterContent": true,
+   "task": "Was hast du diese Woche zum Frühstück gegessen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Feier- oder Objekt-Emoji aus.",
+   "id": "121432",
+   "starterContent": true,
+   "task": "Mit welchem Gegenstand könntest du wunderschöne Musik machen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121433",
+   "starterContent": true,
+   "task": "Welches Gesicht sollte dein Zahnarzt bei der Behandlung lieber NICHT machen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121437",
+   "starterContent": true,
+   "task": "Was hättest du gern dabei, wenn du auf einer einsamen Insel stranden würdest?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier- oder Natur-Emoji aus.",
+   "id": "121438",
+   "starterContent": true,
+   "task": "Welches Wesen würdest du als Hexe zu deinem treuen Begleiter machen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121439",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du in einem Spukhaus machen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Sport- oder Aktivitäts-Emoji aus.",
+   "id": "121440",
+   "starterContent": true,
+   "task": "Welches Emoji steht für eine Schul-AG oder Mannschaft, zu der du gehört hast?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121441",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du machen, wenn der Gorilla im Zoo dich in sein Gehege winken würde?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Aktivitäts-Emoji aus.",
+   "id": "121443",
+   "starterContent": true,
+   "task": "Für welches Ereignis würdest du eine ordentliche Summe Eintritt bezahlen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Natur-Emoji aus.",
+   "id": "121445",
+   "starterContent": true,
+   "task": "Was könntest du wahrscheinlich sehen, wenn du aus dem nächsten Fenster schaust?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Aktivitäts-Emoji aus.",
+   "id": "121446",
+   "starterContent": true,
+   "task": "Bei welcher Sportart oder Aktivität würdest du dich wahrscheinlich verletzen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121448",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes, aus dem du mindestens zwei Städte kennst."
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121449",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes, aus dem du jemanden kennst."
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121450",
+   "starterContent": true,
+   "task": "Welche Flagge hat deiner Meinung nach ein cooles Design?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121451",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes, dessen Namen du buchstabieren kannst. Und zwar jetzt sofort!"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121453",
+   "starterContent": true,
+   "task": "Was ist beim Kochen oft eine wichtige Zutat?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FOOD-DRINK",
+   "fakerHint": "Wähle ein Essens-Emoji aus.",
+   "id": "121455",
+   "starterContent": true,
+   "task": "Was dürfte bei deiner Henkersmahlzeit nicht fehlen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121456",
+   "starterContent": true,
+   "task": "Was packst du auf Reisen wirklich immer ein?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121457",
+   "starterContent": true,
+   "task": "Was könnte ein Kind als cooles Fundstück mit in die Schule bringen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121458",
+   "starterContent": true,
+   "task": "Womit arbeitest du jeden Tag?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121461",
+   "starterContent": true,
+   "task": "Welches Emoji verbindest du mit BUSINESS?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121462",
+   "starterContent": true,
+   "task": "Was würde dir das Gefühl geben, reich zu sein, wenn du es besitzen würdest?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Aktivitäts-Emoji aus.",
+   "id": "121463",
+   "starterContent": true,
+   "task": "Welches Emoji steht für etwas, das du abends gern machst?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Personen-Emoji aus.",
+   "id": "121465",
+   "starterContent": true,
+   "task": "Was oder wen siehst du ständig auf Dating-Apps?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121467",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du machen, wenn du die Zukunft gesehen hättest?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Berufs-Emoji aus.",
+   "id": "121468",
+   "starterContent": true,
+   "task": "Für welchen Beruf hast du großen Respekt?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121469",
+   "starterContent": true,
+   "task": "Wie fühlst du dich, wenn du bei der Zulassungsstelle sitzt?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121471",
+   "starterContent": true,
+   "task": "Welches Gesicht machst du, wenn deine Mit-Bankräuber sagen: „Wir haben Gesellschaft!“?"
+  },
+  {
+   "appearance": "EARLY",
+   "countrySpecific": true,
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121472",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du in der Nähe deiner Schulleitung machen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol-Emoji aus.",
+   "id": "121473",
+   "starterContent": true,
+   "task": "Welches Emoji steht für „Oh-oh!“?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol- oder Zeichen-Emoji aus.",
+   "id": "121474",
+   "starterContent": true,
+   "task": "Welches Symbol oder Zeichen findest du auf den ersten Blick verwirrend?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Verkehrsmittel-Emoji aus.",
+   "id": "121475",
+   "starterContent": true,
+   "task": "Wie reist du im Urlaub am liebsten?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Gebäude- oder Verkehrsmittel-Emoji aus.",
+   "id": "121476",
+   "starterContent": true,
+   "task": "Wo könnte man gut ein kurzes Nickerchen machen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Orts-Emoji aus.",
+   "id": "121477",
+   "starterContent": true,
+   "task": "Was steht für DICH für den perfekten Urlaub?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Orts-Emoji aus.",
+   "id": "121478",
+   "starterContent": true,
+   "task": "Was machen die Aliens in Filmen IMMER kaputt?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Verkehrsmittel-Emoji aus.",
+   "id": "121479",
+   "starterContent": true,
+   "task": "Was wäre dein ideales erstes Fahrzeug?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Verkehrsmittel-Emoji aus.",
+   "id": "121480",
+   "starterContent": true,
+   "task": "Welches ungewöhnliche Fahrzeug könntest du im Notfall wahrscheeeeinlich fahren?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Verkehrsmittel-Emoji aus.",
+   "id": "121481",
+   "starterContent": true,
+   "task": "Was ist manchmal vieeeeel zu schnell unterwegs?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121483",
+   "starterContent": true,
+   "task": "Wie fühlst du dich, wenn dich jemand unterbricht … und zwar DEIN SCHWARM?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121484",
+   "starterContent": true,
+   "task": "Welches Gesicht machst du an deinem achten Arbeitstag in Folge?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Gebäude-Emoji aus.",
+   "id": "121485",
+   "starterContent": true,
+   "task": "Godzilla! Schnell, welches Gebäude würdest du vor der Zerstörung retten?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121486",
+   "starterContent": true,
+   "task": "Was würde herrlich befriedigend aussehen, wenn man es mit einer Hydraulikpresse zerquetscht?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Tier-Emoji aus.",
+   "id": "121487",
+   "starterContent": true,
+   "task": "Welches Emoji steht für eine deiner größten Ängste?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Berufs-Emoji aus.",
+   "id": "121489",
+   "starterContent": true,
+   "task": "Welches Emoji zeigt den Beruf, den deine Eltern sich für dich wünschen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Gesten-Emoji aus.",
+   "id": "121490",
+   "starterContent": true,
+   "task": "Welche Geste würdest du machen, um einen Freund bei einer Rede anzufeuern?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Personen-Emoji aus.",
+   "id": "121492",
+   "starterContent": true,
+   "task": "Wer oder was wäre ein guter Bösewicht in einem Horrorfilm?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Sport- oder Aktivitäts-Emoji aus.",
+   "id": "121494",
+   "starterContent": true,
+   "task": "Welche Sportart oder Aktivität wäre nackt besonders gefährlich?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121495",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du machen, wenn du den Oscar verlierst, die Kamera aber noch auf dich gerichtet ist?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121498",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du machen, wenn dein Ex plötzlich „… hey“ schreibt?",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121499",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du machen, wenn dich jemand mit einer zweiwöchigen Kreuzfahrt überrascht?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121501",
+   "starterContent": true,
+   "task": "Welches Gesicht sieht man oft auf Achterbahnfotos?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ACTIVITIES",
+   "fakerHint": "Wähle ein Emoji für eine Gruppenaktivität aus.",
+   "id": "121502",
+   "starterContent": true,
+   "task": "Welche Aktivität gehört zu einem typischen Junggesellinnenabschied?",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121540",
+   "starterContent": true,
+   "task": "Welchen Gegenstand könntest du mit bloßen Händen zerstören?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121541",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du deinem Rivalen kurz vor dem Start eines Rennens zeigen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Kleidungs-Emoji aus.",
+   "id": "121542",
+   "starterContent": true,
+   "task": "Welches Kleidungsstück könntest du zu einer ziemlich schicken Hochzeit tragen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121543",
+   "starterContent": true,
+   "task": "Welches Gesicht würdest du schicken, um jemandem eine Jobabsage zu erteilen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol-Emoji aus.",
+   "id": "121544",
+   "starterContent": true,
+   "task": "Mit welchem Symbol würdest du dich als „die Person, die früher unter deinem Namen bekannt war“ bezeichnen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121545",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes, das für seinen Wein bekannt ist.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121547",
+   "starterContent": true,
+   "task": "Welchen Gegenstand findet man in einer Ferienwohnung?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121548",
+   "starterContent": true,
+   "task": "Mit welchem Emoji würdest du die Einladung zur Hochzeit deines Ex ablehnen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "121549",
+   "starterContent": true,
+   "task": "Bei welchem Tier hättest du keine großen Bedenken, wenn es dich beißt?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121551",
+   "starterContent": true,
+   "task": "Mit welchem Gegenstand könntest du Möbel zusammenbauen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121552",
+   "starterContent": true,
+   "task": "Welches Gesicht machst du nach einem Strike beim Bowling?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121555",
+   "starterContent": true,
+   "task": "Welches Emoji steht für einen Film oder eine Serie, die du kürzlich gesehen hast?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121556",
+   "starterContent": true,
+   "task": "Welcher Gegenstand erinnert dich an deine Kindheit?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Berufs-Emoji aus.",
+   "id": "121558",
+   "starterContent": true,
+   "task": "Welchen Beruf werden Roboter deiner Meinung nach niemals übernehmen?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121559",
+   "starterContent": true,
+   "task": "Welches Gesicht machst du normalerweise, wenn dir jemand seinen Beruf erklärt?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121611",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes, in dem schon mal Olympische Spiele stattgefunden haben."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Orts-Emoji aus.",
+   "id": "121612",
+   "starterContent": true,
+   "task": "Wohin könnte eine Grundschulklasse einen Ausflug machen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121613",
+   "starterContent": true,
+   "task": "Welchen Gegenstand zu verlieren wäre eine ziemlich große Katastrophe?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "121614",
+   "starterContent": true,
+   "task": "Welches Gesicht machst du, wenn du erfährst, dass es definitiv Aliens gibt UND dass sie schon auf der Erde sind?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121615",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes mit einem berühmten Wahrzeichen oder einer bekannten Sehenswürdigkeit."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "PEOPLE-BODY",
+   "fakerHint": "Wähle ein Berufs-Emoji aus.",
+   "id": "121618",
+   "starterContent": true,
+   "task": "Wer hätte im Bunker nach der Apokalypse einen nützlichen Beruf?"
+  },
+  {
+   "appearance": "EARLY",
+   "emojiCategory": "TRAVEL-PLACES",
+   "fakerHint": "Wähle ein Gebäude-Emoji aus.",
+   "id": "121619",
+   "starterContent": true,
+   "task": "Wovon müsstest du herunterfallen, damit darüber in den Nachrichten berichtet wird?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt-Emoji aus.",
+   "id": "121621",
+   "starterContent": true,
+   "task": "Mit welchem Gegenstand könntest du richtig viel Lärm machen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Tier-Emoji aus.",
+   "id": "121623",
+   "starterContent": true,
+   "task": "Was darfst du nicht mit ins Flugzeug nehmen?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Objekt- oder Symbol-Emoji aus.",
+   "id": "121624",
+   "starterContent": true,
+   "task": "Welches Emoji könnte in einer sehr wichtigen Präsentation auftauchen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "FLAGS",
+   "fakerHint": "Wähle ein Flaggen-Emoji aus.",
+   "id": "121625",
+   "starterContent": true,
+   "task": "Wähle die Flagge eines Landes, dessen Hauptstadt du kennst."
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "SYMBOLS",
+   "fakerHint": "Wähle ein Symbol-Emoji aus.",
+   "id": "121627",
+   "starterContent": true,
+   "task": "Welches Symbol könnte man in einem Grundschulklassenzimmer sehen?"
+  },
+  {
+   "appearance": "LATE",
+   "emojiCategory": "OBJECTS",
+   "fakerHint": "Wähle ein Emoji von etwas Rundem aus.",
+   "id": "122236",
+   "starterContent": true,
+   "task": "Mit welchem Emoji außer dem Pfirsich könntest du einen Hintern darstellen?",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "Wähle ein Gesichts-Emoji aus.",
+   "id": "122240",
+   "starterContent": true,
+   "task": "Welches Gesicht machst du, wenn dich jemand anhupt?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "SMILEYS-EMOTION",
+   "fakerHint": "",
+   "id": "122246",
+   "starterContent": true,
+   "task": "Welches Emoji sagt: „Ich habe Pizza und gebe NICHTS ab“?"
+  },
+  {
+   "appearance": "MID-ROUND",
+   "emojiCategory": "ANIMALS-NATURE",
+   "fakerHint": "Wähle ein Tier-Emoji aus.",
+   "id": "122311",
+   "starterContent": true,
+   "task": "Von welchem Tier würdest du dich beißen lassen wollen, um seine Fähigkeiten zu bekommen?"
+  }
+ ]
+}

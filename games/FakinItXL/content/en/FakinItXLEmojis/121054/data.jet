@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Auf welchen Gegenstand würdest du dich setzen, um gewisse Gefühle zu bekommen?"
+  }
+ ]
+}

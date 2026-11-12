@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Welches Tier gäbe ein sexy Muppet ab? (Ja, noch heißer als Miss Piggy!)."
+  }
+ ]
+}

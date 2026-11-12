@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Welches Gesicht würdest du machen, wenn dich jemand mit einer zweiwöchigen Kreuzfahrt überrascht?"
+  }
+ ]
+}

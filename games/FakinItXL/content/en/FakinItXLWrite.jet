@@ -1,0 +1,1404 @@
+{
+ "content": [
+  {
+   "fakerTasks": [
+    "Ein Politiker",
+    "Jemand, der unter mysteriösen Umständen gestorben ist",
+    "Jemand, dessen Meinung deine Großeltern teilen"
+   ],
+   "id": "121043",
+   "tasks": [
+    "Eine umstrittene Person des öffentlichen Lebens",
+    "Jemand, den gewisse Menschen bewundern",
+    "Jemand, dessen Meinung du teilst"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Tier, das oft ausgestopft wird",
+    "Ein Tier oder Ereignis, über das es viele Memes gibt",
+    "Etwas zur Behandlung einer typischen Kinderkrankheit"
+   ],
+   "id": "121076",
+   "tasks": [
+    "Etwas Weiches zum Knuddeln",
+    "Etwas Lustiges",
+    "Etwas Leckeres für deinen Bauch"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Das perfekte Motiv für ein Aquarell",
+    "Eine anspruchsvolle Fähigkeit, die du irgendwann lernen willst",
+    "Eine typische militärische Begrüßung"
+   ],
+   "id": "121124",
+   "tasks": [
+    "Der heißeste Hintergrund für ein Profilbild",
+    "Das größte Warnsignal in einem Dating-Profil",
+    "Deine erste Nachricht nach einem Match auf einer Dating-App"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das definitiv Flecken hinterlässt",
+    "Das Erste, was du in einem Vorstellungsgespräch sagst",
+    "Eine Beschreibung für Bratensoße"
+   ],
+   "id": "121126",
+   "tasks": [
+    "Etwas, womit du dich richtig schön einreiben kannst",
+    "Eine Begrüßung, die man sexy sagen kann",
+    "Ein Adjektiv für die ideale Konsistenz von Kacke"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Kleidungsstück für einen gemütlichen Regentag",
+    "Ein einfacher Zaubertrick",
+    "Eine inspirierende Person des öffentlichen Lebens"
+   ],
+   "id": "121128",
+   "tasks": [
+    "Ein Kleidungsstück, in dem du dich heiß fühlst",
+    "Ein Weg, in einer Bar auf dich aufmerksam zu machen",
+    "Ein Promi, den du gern als Flirt-Unterstützung dabeihättest"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Das gruseligste Körperteil eines Vampirs",
+    "Was dir an einer heißen Person zuerst auffällt",
+    "Ein unappetitlicher Teil eines Hähnchens"
+   ],
+   "id": "121134",
+   "tasks": [
+    "Das sexyste Körperteil eines Vampirs",
+    "Das sexyste Körperteil von Frankensteins Monster",
+    "Das sexyste Körperteil eines Sumpfmonsters"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Eine Beleidigung, die du im Straßenverkehr benutzen würdest",
+    "Ein Teil des Fortpflanzungssystems",
+    "Ein Moderator aus dem Frühstücksfernsehen oder einer Talkshow"
+   ],
+   "id": "121135",
+   "starterContent": false,
+   "tasks": [
+    "Etwas, das im Fernsehen oft weggepiept wird",
+    "Etwas, das im Fernsehen oft verpixelt wird",
+    "Etwas, das du im Fernsehen nicht mehr sehen willst"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Schmuckstück für ein Mitglied eines Königshauses",
+    "Ein Film mit einem nervigen sprechenden Tier",
+    "Das Körperteil eines Elefanten, das am meisten Schaden anrichten kann"
+   ],
+   "id": "121165",
+   "tasks": [
+    "Das größte Schmuckstück, das du tragen würdest",
+    "Der schlimmste Film, den man mit flüchtigen Bekannten schauen könnte",
+    "Das sexyste Körperteil eines Elefanten"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das du sammeln würdest, wenn du Zeit hättest",
+    "Ein Hobby, das langweiligen Menschen gefallen könnte",
+    "Ein Grund, aus einer Wohnung auszuziehen"
+   ],
+   "id": "121166",
+   "tasks": [
+    "Das ANGEBERISCHSTE, was man sammeln kann",
+    "Ein Hobby, mit dem du einen Partner finden könntest",
+    "Ein Zeichen dafür, dass es in einem Haus spukt"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Eine gute Sache, die du etwas albern findest",
+    "Eine Institution, mit der du regelmäßig zu tun hast",
+    "Ein altes oder gefährliches technisches Gerät"
+   ],
+   "id": "121167",
+   "tasks": [
+    "Eine gute Sache, für die du bei einem Fünf-Kilometer-Spendenlauf mitmachen würdest",
+    "Eine Institution, der du nicht vertraust",
+    "Etwas, das deiner Meinung nach abgeschafft gehört"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Der Vorname einer weiblichen Figur aus „Die Sopranos“",
+    "Ein typisches dramatisches Ereignis aus „Die Sopranos“",
+    "Ein Verbrechen, das Tony Soprano ganz sicher begangen hat"
+   ],
+   "id": "121168",
+   "tasks": [
+    "Ein Vorname, den eine entfernte Tante haben könnte",
+    "Ein typisches Familiengeheimnis",
+    "Ein Verbrechen, das du deinem Cousin zutrauen würdest"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das du deinem Haustier zurufst",
+    "Ein neuer Trend unter Jugendlichen",
+    "Etwas, das du nur ungern in der Drogerie kaufen würdest"
+   ],
+   "id": "121169",
+   "tasks": [
+    "Etwas, das du rufst, um Aufmerksamkeit zu bekommen",
+    "Etwas, das man auf einer Flugzeugtoilette nicht tun sollte",
+    "Ein Gegenstand für die menschliche Körperhygiene"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Ein beliebtes Lied zum Engtanzen aus deiner Jugend",
+    "Ein Lied, das du mit traurigen Filmszenen verbindest",
+    "Dein Lieblingslied von Britney Spears"
+   ],
+   "id": "121170",
+   "tasks": [
+    "Ein gutes Lied zum Liebemachen",
+    "Ein gutes Lied zum Sterben",
+    "Ein gutes Lied, um dabei deinen Opel zu Schrott zu fahren"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Fahrzeug, das in Zukunft garantiert explodieren wird",
+    "Eine moderne Institution oder Idee",
+    "Ein Ort, an dem du nach einem verlorenen Gegenstand suchen würdest"
+   ],
+   "id": "121171",
+   "tasks": [
+    "Ein Fahrzeug, das in Zukunft wichtig sein wird",
+    "Etwas, das die Menschheit besser nicht erfunden hätte",
+    "Wo als Nächstes ein großes Containerschiff stecken bleiben wird"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Ein Körperteil, das du zierlich findest",
+    "Ein Körperteil, das du richtig heiß findest",
+    "Ein Körperteil, das im Alter Probleme macht"
+   ],
+   "id": "121175",
+   "tasks": [
+    "Ein Körperteil, das du beim Flirten berührst",
+    "Ein Körperteil, das du berührst, wenn du verliebt bist",
+    "Ein Körperteil, das der Arzt anfassen muss"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Land in Europa",
+    "Eine Sportart aus dem Schulsport",
+    "Eine Farbe, die deine momentane Stimmung beschreibt"
+   ],
+   "id": "121988",
+   "starterContent": true,
+   "tasks": [
+    "Ein Land, das du besuchen möchtest",
+    "Deine olympische Lieblingssportart",
+    "Eine Farbe auf dem Oberteil, das du gerade trägst"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das du im Salat hasst",
+    "Eine Zeit im Jahr, die du nicht magst",
+    "Der Aufdruck auf einem deiner T-Shirts"
+   ],
+   "id": "121990",
+   "starterContent": true,
+   "tasks": [
+    "Dein Lieblingsgemüse",
+    "Dein zweitliebster Feiertag oder deine zweitliebste Jahreszeit",
+    "Ein Wort oder Satz aus einer Nachricht, die du diese Woche verschickt hast"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Land, das du noch nie besucht hast, aber unbedingt besuchen möchtest",
+    "Ein Film, den du ständig zitierst",
+    "Ein Instrument aus „Peter und der Wolf“"
+   ],
+   "id": "121994",
+   "starterContent": true,
+   "tasks": [
+    "Ein Land, dessen Namen du buchstabieren kannst",
+    "Ein Film, den du früher oft geschaut hast",
+    "Ein Instrument, das du gern spielen könntest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Geschenk von deinem letzten Geburtstag",
+    "Ein richtig schlechtes Auto",
+    "Etwas, das du deinem Chef gern entgegenbrüllen würdest"
+   ],
+   "id": "122002",
+   "starterContent": true,
+   "tasks": [
+    "Etwas Nützliches für einen Atombunker",
+    "Dein erstes Auto",
+    "Etwas, das du wütend im Straßenverkehr rufen würdest"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Deine Lieblingsfarbe bei Buntstiften",
+    "Eine Figur auf einem Filmposter, das du als Kind gehabt haben könntest",
+    "Der Name einer Person aus dieser Runde"
+   ],
+   "id": "122007",
+   "starterContent": true,
+   "tasks": [
+    "Ein Kerzenduft, der dir gefallen würde",
+    "Eine Filmfigur, die du richtig gruselig findest",
+    "Jemand mit einer tollen Gesangsstimme"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Restaurant für ein Date",
+    "Das Geschäft, in dem du deine Unterwäsche kaufst",
+    "Ein Job, den du niemals haben möchtest"
+   ],
+   "id": "122012",
+   "starterContent": true,
+   "tasks": [
+    "Eine Restaurantkette, die du magst",
+    "Ein Geschäft, in dem du oft einkaufst",
+    "Dein erster Job"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Tier aus dem letzten niedlichen Tiervideo, das du bekommen hast",
+    "Dein Lieblingsfrühstück",
+    "Eine lustige Beschäftigung für einen Samstagabend"
+   ],
+   "id": "122015",
+   "starterContent": true,
+   "tasks": [
+    "Ein Tier, das dir unheimlich ist",
+    "Etwas, das dein Partner lieben muss, damit eure Beziehung funktioniert",
+    "Deine Lieblingsbeschäftigung im Freien"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Das Letzte, was du jemandem geschenkt hast",
+    "Etwas, wofür man einen Pokal bekommt",
+    "Ein Monat, der weder auf „r“ noch auf „i“ endet"
+   ],
+   "id": "122016",
+   "starterContent": true,
+   "tasks": [
+    "Das Letzte, was du dir nach Hause liefern lassen hast",
+    "Eine Fähigkeit, die du gern hättest",
+    "Dein Lieblingsmonat"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine Serie, die verfilmt werden sollte",
+    "Ein Lebensmittel, dessen Namen man gern laut ausspricht",
+    "Ein Lebensmittel, für das Menschen manchmal viel Geld bezahlen"
+   ],
+   "id": "122017",
+   "starterContent": true,
+   "tasks": [
+    "Eine Serie, über die alle reden, die du aber NICHT gesehen hast",
+    "Dein zweitliebster Pizzabelag",
+    "Ein Lebensmittel, von dem dir schlecht wird"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein guter Beruf als Sprungbrett in die Politik",
+    "Eine Zeitschrift, die immer im Wartezimmer liegt",
+    "Ein Buch, aus dem ein toller Film geworden ist"
+   ],
+   "id": "122018",
+   "starterContent": true,
+   "tasks": [
+    "Dein Berufswunsch als Kind",
+    "Deine Lieblingszeitschrift als Kind",
+    "Ein Buch, das du als Kind geliebt hast"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine schlechte Serie, die du trotzdem liebst",
+    "Eine Sprache, die schwer zu lernen sein könnte",
+    "Eine Sportübung, die du hasst"
+   ],
+   "id": "122019",
+   "starterContent": true,
+   "tasks": [
+    "Die deiner Meinung nach schlechteste Serie",
+    "Deine liebste Landesküche",
+    "Etwas, das du aus Langeweile tun würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Name für dein nächstes Haustier",
+    "Ein Promi, den du schon getroffen hast",
+    "Ein Lebensmittel, das oft stark tropft"
+   ],
+   "id": "122020",
+   "starterContent": true,
+   "tasks": [
+    "Ein cooler Name, den du gern hättest",
+    "Ein Promi, den du nicht besonders magst",
+    "Etwas, das du heute gegessen hast"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Gegenstand, der gerade in deinem Auto liegt",
+    "Etwas, das wahrscheinlich ein Wrestling-Move ist",
+    "Eine Beschäftigung, die deinen Großeltern gefallen könnte"
+   ],
+   "id": "122021",
+   "starterContent": true,
+   "tasks": [
+    "Ein Gegenstand, mit dem du jemanden umbringen könntest",
+    "Eine Umschreibung für Sex",
+    "Die beste Beschäftigung zum Abschluss eines Dates"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Eine gute Angewohnheit, die du deiner Meinung nach hast",
+    "Der Nachname eines Sängers, den du gern hörst",
+    "Das Mindestalter, um für ein kommunales Amt zu kandidieren"
+   ],
+   "id": "122022",
+   "starterContent": true,
+   "tasks": [
+    "Eine Angewohnheit, die du bei anderen attraktiv findest",
+    "Eine Straße, die du kennst oder in der du gewohnt hast",
+    "Das ideale Alter für den ersten Kuss"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Gegenstand, den du auf ein Abenteuer mitnehmen würdest",
+    "Ein Accessoire für einen Geheimagenten",
+    "Etwas, das du einem Eindringling entgegenrufen würdest"
+   ],
+   "id": "122023",
+   "starterContent": true,
+   "tasks": [
+    "Ein Gegenstand, den du auf eine lange Autofahrt mitnehmen würdest",
+    "Ein Accessoire, das du künftig gern tragen würdest",
+    "Ein Spruch, der auf einem Autoaufkleber stehen könnte"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein unglaublich nerviges Haustier",
+    "Etwas, das immer schlecht wird, bevor du es aufgebraucht hast",
+    "Der Vorname einer Person, die du hasst"
+   ],
+   "id": "122116",
+   "tasks": [
+    "Ein pflegeintensives Haustier",
+    "Etwas, das du bei jedem Supermarktbesuch kaufst",
+    "Ein Vorname, der dir ein komisches Gefühl gibt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Geräusch aus deiner Kindheit",
+    "Ein Wort, bei dem du dich beim Aussprechen schlau fühlst",
+    "Die erste erfundene Figur, in die du verknallt warst"
+   ],
+   "id": "122117",
+   "tasks": [
+    "Ein Geräusch, das dich beruhigt",
+    "Ein Wort, das gebrüllt am besten klingt",
+    "Die erste erfundene Figur, vor der du richtig Angst hattest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Das coolste Tier",
+    "Etwas, das du auf eine lange Autofahrt mitnimmst",
+    "Eine Computermarke aus den Neunzigern"
+   ],
+   "id": "122118",
+   "tasks": [
+    "Ein Tier, vor dem du Respekt, aber keine Angst hast",
+    "Etwas, das du mit ins Flugzeug nimmst",
+    "Deine Lieblingscomputermarke"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Was du bei einer geselligen Veranstaltung am liebsten trinkst",
+    "Etwas, das man in einer Bar vergessen könnte",
+    "Ein Lied, das dich an Liebeskummer erinnert"
+   ],
+   "id": "122119",
+   "tasks": [
+    "Was du abends am liebsten trinkst",
+    "Etwas, das gerade in deinem Portemonnaie ist",
+    "Ein Lied aus deiner Jugend"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das du deiner Mutter schon geschenkt hast",
+    "Eine Farbe, in der du deiner Meinung nach gut aussiehst",
+    "Ein extrem gruseliger Film"
+   ],
+   "id": "122120",
+   "tasks": [
+    "Etwas, das Mütter lieben",
+    "Eine Farbe, die du hasst",
+    "Ein Film, den du anderen gern zeigst"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das ein Sandwich durchweicht",
+    "Eine Familienfeier, zu der du hingehen musst",
+    "Eine Beilage, die das ganze Essen ruiniert"
+   ],
+   "id": "122121",
+   "tasks": [
+    "Etwas, das auf einem Sandwich immer gut ist",
+    "Eine Veranstaltung, die reine Zeitverschwendung ist",
+    "Deine Lieblingsbeilage"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Wort, das wie ein Medikament klingt",
+    "Ein Musiker, der viel Geld verdient",
+    "Ein Wort, das Tech-Bros viel zu oft benutzen"
+   ],
+   "id": "122122",
+   "tasks": [
+    "Ein Wort, das sehr nach Science-Fiction klingt",
+    "Ein Musiker, mit dem du überhaupt nichts anfangen kannst",
+    "Ein Wort, das sehr nach „Business“ klingt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Das zuverlässigste Fortbewegungsmittel",
+    "Eine Beschäftigung für einen Büchereibesuch",
+    "Ein Wort, das Reptilien beschreibt"
+   ],
+   "id": "122123",
+   "starterContent": true,
+   "tasks": [
+    "Ein cooles Fortbewegungsmittel",
+    "Eine Beschäftigung aus deiner Kindheit",
+    "Ein Wort, das dich direkt nach dem Aufwachen beschreibt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Deine unbeliebteste Hausarbeit",
+    "Der Name einer Shakespeare-Figur",
+    "Etwas, das du mit der Kirche verbindest"
+   ],
+   "id": "122162",
+   "starterContent": true,
+   "tasks": [
+    "Ein ganz ordentlicher Tagesabschluss",
+    "Ein guter Name für ein Raumschiff",
+    "Etwas, das du mit dem Winter verbindest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Der Titel eines Films, der auf dem Meer spielt",
+    "Dein Lieblingsdessert",
+    "Der Name einer zeitlosen Diva"
+   ],
+   "id": "122253",
+   "starterContent": true,
+   "tasks": [
+    "Ein guter Name für eine Jacht",
+    "Etwas, woran du vor dem Einschlafen denkst",
+    "Eine mächtige Person"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Fabelwesen",
+    "Ein Promi, den du alt findest",
+    "Ein einfacher Ratschlag für ein Kind"
+   ],
+   "id": "122301",
+   "tasks": [
+    "Ein gutes Maskottchen für eine Sportmannschaft",
+    "Etwas, das man in einem Museum sehen könnte",
+    "Eine Lehre aus einem Märchen"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Tier, das du gefährlich findest",
+    "Eine Soße, die du vornehm findest",
+    "Eine langweilige historische Person"
+   ],
+   "id": "122309",
+   "starterContent": true,
+   "tasks": [
+    "Ein Muster, das du gern auf deinem Schlafanzug hättest",
+    "Deine Lieblingssoße",
+    "Dein ideales Halloween-Kostüm"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein tragbares Sportgerät",
+    "Eine Beschäftigung, die du dekadent findest",
+    "Eine mächtige Person aus der Tech-Welt"
+   ],
+   "id": "122310",
+   "starterContent": true,
+   "tasks": [
+    "Eine gute Waffe für einen Horrorfilm",
+    "Etwas, womit du dir selbst etwas Gutes tust",
+    "Etwas, dem du im Wald nicht begegnen möchtest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Die beste Uhrzeit für einen Raubüberfall",
+    "Eine mittelalterliche Waffe",
+    "Etwas, das du durch die Flughafenkontrolle schmuggeln würdest"
+   ],
+   "id": "122312",
+   "starterContent": true,
+   "tasks": [
+    "Die beste Tageszeit",
+    "Ein Gegenstand für eine Falle wie in „Kevin – Allein zu Haus“",
+    "Etwas, das in einem Aktenkoffer liegen könnte"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Beruf, durch den jemand wichtig wirkt",
+    "Ein Lebensmittel, das du ekelhaft findest",
+    "Die Hauptfigur eines abgelehnten Kinderbuchs"
+   ],
+   "id": "122313",
+   "starterContent": true,
+   "tasks": [
+    "Ein Beruf, den die meisten nützlich finden",
+    "Ein Wort, das dir Angst macht",
+    "Ein guter Name für einen Nachtclub"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Lebensmittel, das man am besten warm serviert",
+    "Eine bewundernswerte Eigenschaft einer Führungskraft",
+    "Ein Lebensmittel, das aus einem Bauernhoftier hergestellt wird"
+   ],
+   "id": "122314",
+   "starterContent": true,
+   "tasks": [
+    "Ein Wort, das gemütlich klingt",
+    "Eine bewundernswerte Eigenschaft eines Freundes",
+    "Etwas, das man auf einem Bauernhof findet"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Das schwerste Tier, das du heben könntest",
+    "Ein Lied, das zu einem Feiertag gehört",
+    "Ein Promi, der fürs Feiern bekannt ist"
+   ],
+   "id": "122326",
+   "starterContent": true,
+   "tasks": [
+    "Das Schwerste, was du heben könntest",
+    "Ein Lied, das immer beliebt sein wird",
+    "Ein „Geschöpf der Nacht“"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein typischer Sandwichbelag",
+    "Dein Lieblingsgebäck",
+    "Ein sehr dekadentes Lebensmittel"
+   ],
+   "id": "122336",
+   "starterContent": true,
+   "tasks": [
+    "Eine Zutat, die ein Sandwich ruiniert",
+    "Ein Lebensmittel mit einer angenehmen Konsistenz",
+    "Etwas, das man NIEMALS am Buffet essen sollte"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein häufiger Vorname",
+    "Der Nachname eines Promis, den du magst",
+    "Ein typisches Zootier"
+   ],
+   "id": "122338",
+   "starterContent": true,
+   "tasks": [
+    "Ein langweiliger Vorname",
+    "Ein lustiger Katzenname",
+    "Ein möglicher Spitzname für einen Biker"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine Handy-App, die fast alle haben",
+    "Eine wichtige Person aus der Politik",
+    "Deine Schätzung, wie viele Zoll eine Meile hat"
+   ],
+   "id": "122339",
+   "starterContent": true,
+   "tasks": [
+    "Die meistbenutzte App auf deinem Handy",
+    "Eine Person oder Stelle, von der du viele Nachrichten bekommst",
+    "Die Zahl deiner aktuell ungelesenen E-Mails"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Promi aus deiner Kindheit",
+    "Eine Frisur aus den Neunzigern",
+    "Ein Edelstein, der als Geburtsstein gilt"
+   ],
+   "id": "122340",
+   "starterContent": true,
+   "tasks": [
+    "Ein Promi, den du für wirklich nett hältst",
+    "Eine Frisur, die du gern ausprobieren würdest",
+    "Ein Edelstein, den du hässlich findest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Film, der gerade im Kino läuft",
+    "Eine Filmreihe, die SEHR viel Geld eingespielt hat",
+    "Eine supercoole Filmfigur"
+   ],
+   "id": "122344",
+   "starterContent": true,
+   "tasks": [
+    "Der letzte Film, den du gesehen hast",
+    "Deine Lieblingsfilmreihe",
+    "Eine Filmfigur, die stirbt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Organ, das oft gespendet wird",
+    "Ein Körperteil, auf das man sich oft Tattoos stechen lässt",
+    "Ein Wort, das man in der Arztpraxis hört"
+   ],
+   "id": "122346",
+   "starterContent": true,
+   "tasks": [
+    "Ein Organ, ohne das du nicht leben kannst",
+    "Ein Körperteil, das man trainiert",
+    "Ein Wort, an das du dich aus dem Biounterricht erinnerst"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerTasks": [
+    "Ein Wort, das du mit der Arktis verbindest",
+    "Ein Wort, das du mit dem Wald verbindest",
+    "Ein Wort, das du mit Deutschland verbindest"
+   ],
+   "id": "122347",
+   "starterContent": true,
+   "tasks": [
+    "Ein Wort, das du mit dem Weihnachtsmann verbindest",
+    "Ein Wort, das du mit dem Herbst verbindest",
+    "Ein Wort, das du mit dem Tag der Deutschen Einheit verbindest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Der Name irgendeines klassischen Komponisten",
+    "Ein Instrument, das schwer zu spielen ist",
+    "Ein ungewöhnliches Schlaginstrument"
+   ],
+   "id": "122350",
+   "starterContent": true,
+   "tasks": [
+    "Ein Musiker, den du sehr talentiert findest",
+    "Ein Instrument, das du immer gern hörst",
+    "Ein Instrument, das du jetzt sofort spielen könntest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein typischer Ort für Kindergeburtstage",
+    "Ein Ort, an dem man Schmalzgebäck kaufen kann",
+    "Ein erfundener Ort aus einem bekannten Film"
+   ],
+   "id": "122352",
+   "starterContent": true,
+   "tasks": [
+    "Ein Ort, den du nur nach Unterschreiben eines Haftungsausschlusses betreten darfst",
+    "Ein Ort, an dem man Preise gewinnen kann",
+    "Ein erfundener Ort, den du gern besuchen würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Tier, das man in einem Glasbecken hält",
+    "Ein Tier mit ausdrucksvollen Augen",
+    "Ein Tier mit stiller Erhabenheit"
+   ],
+   "id": "122403",
+   "starterContent": true,
+   "tasks": [
+    "Ein Tier, das du niedlich findest",
+    "Der größte Mistkerl im Tierreich",
+    "Das deiner Meinung nach sexyste Tier"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Eine Begrüßung aus dem Mittelalter",
+    "Ein sehr vornehmes Essen",
+    "Ein Wort, das wahrscheinlich italienisch ist"
+   ],
+   "id": "122404",
+   "starterContent": true,
+   "tasks": [
+    "Eine andere Art, „Hallo“ zu sagen",
+    "Etwas, das du dir zum Geburtstag wünschst",
+    "Ein Wort, mit dem man schlau klingen will"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Geruch, den du nie vergisst",
+    "Ein Kleidungsstück, das niemand mehr trägt",
+    "Ein Essen, das oft eine Sauerei macht"
+   ],
+   "id": "122405",
+   "starterContent": true,
+   "tasks": [
+    "Ein Geruch, den du liebst",
+    "Ein Modetrend, den du zurückbringen würdest",
+    "Ein Essen, das du zu einer Party mitbringen würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine Beschwerde über einen ehemaligen oder jetzigen Mitbewohner",
+    "Ein Verbrechen, das du mit der Mafia verbindest",
+    "Ein Ort, an dem du eine Leiche verstecken würdest"
+   ],
+   "id": "122412",
+   "starterContent": true,
+   "tasks": [
+    "Ein Grund, mit jemandem Schluss zu machen",
+    "Ein Verbrechen, das du ohne Konsequenzen ausprobieren würdest",
+    "Ein Ort, an dem du schon dein Handy oder Portemonnaie verloren hast"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Eine tragische historische Person",
+    "Eine Band mit beruhigender Musik",
+    "Ein guter Name für eine Handpuppe"
+   ],
+   "id": "122413",
+   "starterContent": true,
+   "tasks": [
+    "Eine historische Person, die Social Media dominieren würde",
+    "Eine Band, deren Mitglieder du attraktiv findest",
+    "Dein Wunschname bei der Mafia"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Der Name einer Shakespeare-Figur",
+    "Der Name einer Looney-Tunes-Figur",
+    "Der Name eines Promis, der sich politisch engagiert"
+   ],
+   "id": "122483",
+   "starterContent": true,
+   "tasks": [
+    "Ein Name für eine Figur aus einer Fantasy- oder Mittelalterwelt",
+    "Eine nervige Zeichentrickfigur",
+    "Der Name einer beliebten politischen Führungsperson"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein typischer Ruf bei einem Baseballspiel",
+    "Etwas, das man vor Begeisterung ruft",
+    "Etwas, das man zu einem Hochschulabschluss oft sagt"
+   ],
+   "id": "122484",
+   "starterContent": true,
+   "tasks": [
+    "Ein typischer Ruf bei einem Fußballspiel",
+    "Ein typischer Ruf nach einem Bühnenauftritt",
+    "Etwas, das man einem Brautpaar oft sagt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine bekannte religiöse Figur",
+    "Ein typischer Fund in einem verlassenen Lagerraum",
+    "Etwas, das Menschen aus Nostalgie sammeln"
+   ],
+   "id": "122485",
+   "starterContent": true,
+   "tasks": [
+    "Etwas, das bei einem Opa gerahmt an der Wand hängen könnte",
+    "Etwas, das in der Garage eines Opas stehen könnte",
+    "Etwas, das einem Opa mit ins Grab gelegt werden könnte"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Deine Lieblingslimo",
+    "Dein Lieblings-Fast-Food-Gericht",
+    "Dein liebstes scharfes Essen"
+   ],
+   "id": "122486",
+   "starterContent": true,
+   "tasks": [
+    "Ein Getränk, das du auf ex trinken könntest",
+    "Ein Essen, das du mit einem Bissen essen kannst",
+    "Etwas, zu dem man besser Milch trinken sollte"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein typisches Kantinenessen",
+    "Ein typisches Tier im Streichelzoo",
+    "Ein Lebensmittel, das man nicht einfach pur essen würde"
+   ],
+   "id": "122487",
+   "starterContent": true,
+   "tasks": [
+    "Ein Essen, dessen Reste nicht mehr gut schmecken würden",
+    "Eine Fleischsorte, die du niemals probieren würdest",
+    "Etwas, das man aufs Brot streicht"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerTasks": [
+    "Ein Wort, das du gern in einem E-Mail-Betreff lesen würdest",
+    "Ein Land oder Bundesland, in dem die Menschen entspannt sind",
+    "Etwas, das du mit dem Wilden Westen verbindest"
+   ],
+   "id": "122489",
+   "starterContent": true,
+   "tasks": [
+    "Ein Wort in einem E-Mail-Betreff, das nach Betrug klingt",
+    "Etwas, das du mit Achtsamkeit verbindest",
+    "Etwas, das traditionell als „macho“ gilt"
+   ],
+   "x": false
+  },
+  {
+   "fakerTasks": [
+    "Eine Serie, die deine Eltern geschaut haben könnten",
+    "Ein Tier, von dem du nichts mehr hören kannst",
+    "Ein Spruch, den du auf einer Party rufen würdest"
+   ],
+   "id": "122491",
+   "starterContent": true,
+   "tasks": [
+    "Eine Serie, aus der du zitieren kannst",
+    "Ein Tier, das einen eigenen Animationsfilm verdient hätte",
+    "Ein Spruch, den du auf ein T-Shirt drucken lassen würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Kosename für dein Kleinkind",
+    "Ein Tier, das man nur ungern in die Hand nimmt",
+    "Ein Wort, das Schleim beschreibt"
+   ],
+   "id": "122492",
+   "starterContent": true,
+   "tasks": [
+    "Ein Kosename für deinen Ehepartner",
+    "Ein Tier, das niemand als Haustier halten sollte",
+    "Ein guter Name für eine Haustierschnecke"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Beruf, für den man ein Kunststudium gebrauchen könnte",
+    "Ein Sänger, dessen Musik alle kennen",
+    "Etwas, von dem du annimmst, dass es dich fressen will"
+   ],
+   "id": "122493",
+   "starterContent": true,
+   "tasks": [
+    "Ein typischer Beruf der Hauptfigur einer romantischen Komödie",
+    "Eine Person, über die du einen biografischen Film gesehen hast",
+    "Etwas Gruseliges in einem Horrorfilm"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerTasks": [
+    "Ein Popsong aus den 2010ern",
+    "Ein Popsong aus den Neunzigern",
+    "Ein Lied, das bestimmt eine Milliarde Mal gehört wurde"
+   ],
+   "id": "122496",
+   "starterContent": true,
+   "tasks": [
+    "Ein Lied, das bei TK Maxx laufen könnte",
+    "Ein Lied, das du sehr nervig findest",
+    "Der Titel eines erfundenen Popsongs"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein beliebtes Essen für die Seele",
+    "Ein Buchklassiker, den du lesen möchtest",
+    "Eine Technik aus einem Science-Fiction-Film oder einer entsprechenden Serie"
+   ],
+   "id": "122497",
+   "starterContent": true,
+   "tasks": [
+    "Ein Gegenstand, den alle gern geschenkt bekommen",
+    "Ein Gegenstand, der auf deinem Nachttisch liegen könnte",
+    "Eine moderne Technik, die du nicht so richtig verstehst"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein schrecklicher Ort für ein erstes Date",
+    "Ein toller Ort für einen Kindergeburtstag",
+    "Ein Ort, der RICHTIG voll wird"
+   ],
+   "id": "122500",
+   "starterContent": true,
+   "tasks": [
+    "Ein Ort, an dem du mit langen Wartezeiten rechnest",
+    "Ein Ort, an dem du Menschen in Kostümen erwartest",
+    "Ein Ort, an dem du eklige Toiletten erwartest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein großer Meilenstein im Leben",
+    "Ein Geräusch, das in einem Gebäude seltsam wäre",
+    "Eine Filmfigur, die du nervig findest"
+   ],
+   "id": "122501",
+   "starterContent": true,
+   "tasks": [
+    "Ein Ereignis, vor dem Menschen nervös werden",
+    "Ein Geräusch, das dich nervös machen würde",
+    "Eine Figur aus Film oder Fernsehen, die für ihre Ängstlichkeit bekannt ist"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine Realityshow mit Moderator",
+    "Ein Lied, das schnell zum Ohrwurm wird",
+    "Ein Promi, der ungefähr so alt ist wie du"
+   ],
+   "id": "122502",
+   "starterContent": true,
+   "tasks": [
+    "Ein Reality-Wettbewerb, den du gewinnen könntest",
+    "Dein Standardlied beim Karaoke",
+    "Ein Promi, dem du laut anderen ähnlich siehst"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein typisches Merkmal eines Hundes",
+    "Etwas, das Forrest Gump erlebt hat",
+    "Etwas, das du zur Selbstverbesserung wirklich mal angehen solltest"
+   ],
+   "id": "122505",
+   "starterContent": true,
+   "tasks": [
+    "Ein typisches Merkmal eines Werwolfs",
+    "Ein Ereignis aus der US-Geschichte",
+    "Etwas, das du beim Arzt machen sollst"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das du in die Oper anziehen würdest",
+    "Ein Tier, das du in den Händen halten könntest",
+    "Ein Ort, an dem alle ein Instagram-Foto machen"
+   ],
+   "id": "122506",
+   "starterContent": true,
+   "tasks": [
+    "Ein unbequemes Kleidungsstück",
+    "Ein Tier, dessen Ausbruch aus dem Zoo dich nicht beunruhigen würde",
+    "Ein überbewertetes Reiseziel"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine Soße, die es in einem Fast-Food-Laden geben könnte",
+    "Ein Ort, an dem es voll wird",
+    "Eine Art von Konsistenz"
+   ],
+   "id": "122512",
+   "starterContent": true,
+   "tasks": [
+    "Ein ekliger Belag für Eiscreme",
+    "Ein Ort, an dem du deine Schuhe garantiert anlassen würdest",
+    "Ein ekliges Wort, bei dem es dich schüttelt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Ort außerhalb deines Zuhauses, den du mindestens zweimal pro Woche besuchst",
+    "Ein Geschenk, das du wahrscheinlich umtauschen würdest",
+    "Etwas Cooles, das du besitzt"
+   ],
+   "id": "122518",
+   "starterContent": true,
+   "tasks": [
+    "Etwas Tolles, das du gern direkt nebenan hättest",
+    "Ein gutes Geschenk zum Einzug",
+    "Ein Gegenstand, den du aus einem brennenden Haus retten würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Irgendein Gemüse",
+    "Eine Fast-Food-Kette",
+    "Etwas, das nur reiche Menschen haben"
+   ],
+   "id": "122519",
+   "starterContent": true,
+   "tasks": [
+    "Eine typische Salatzutat",
+    "Eine Firma, für die du gern Werbung machen würdest",
+    "Etwas, das du als Billionär kaufen würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Job, den du als Teenager hattest",
+    "Eine Videospielfigur",
+    "Ein Schauspieler, den du bewunderst"
+   ],
+   "id": "122520",
+   "starterContent": true,
+   "tasks": [
+    "Ein Beruf, der deiner Meinung nach besser bezahlt werden sollte",
+    "Eine Videospielfigur, die deine Mutter kennen würde",
+    "Ein Schauspieler, der ein toller James Bond wäre"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerTasks": [
+    "Eine typische Beschäftigung im Freien",
+    "Eine gefährliche Extremsportart oder Aktivität",
+    "Ein ungewöhnlicher Ort für ein erstes Date"
+   ],
+   "id": "122521",
+   "starterContent": true,
+   "tasks": [
+    "Etwas, wofür man bei den Pfadfindern wahrscheinlich ein Abzeichen bekommt",
+    "Etwas, das du im Leben unbedingt noch machen willst",
+    "Ein typisches Ausflugsziel einer Grundschulklasse"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Essen, das du auf einer Kirmes bekommst",
+    "Ein Buch, das du in der Schule lesen musstest",
+    "Der Name einer Blume"
+   ],
+   "id": "122522",
+   "starterContent": true,
+   "tasks": [
+    "Ein Essen, das du jeden Tag essen könntest",
+    "Dein Lieblingsbuch",
+    "Ein beliebter Mädchenname"
+   ]
+  },
+  {
+   "countrySpecific": false,
+   "fakerTasks": [
+    "Eine Sportart bei den Olympischen Winterspielen",
+    "Etwas, das man im Baumarkt kaufen kann",
+    "Das Jahrzehnt, in dem deine Eltern geboren wurden"
+   ],
+   "id": "122523",
+   "starterContent": true,
+   "tasks": [
+    "Eine Sportart, die du gern gut beherrschen würdest",
+    "Eine ungewöhnliche Lieblingswaffe eines Serienmörders",
+    "Eine historische Epoche, die du interessant findest"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Eine Restaurantkette",
+    "Etwas, das Grundschüler lernen",
+    "Ein überfüllter Ort"
+   ],
+   "id": "122530",
+   "starterContent": true,
+   "tasks": [
+    "Ein interessanter Ort für den ersten Kuss",
+    "Etwas aus der Schule, das du als Erwachsener nie brauchst",
+    "Ein romantischer Ort für ein zufälliges Kennenlernen"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das Kinder haben wollen, aber besser nicht haben sollten",
+    "Etwas, das du für eine Reise nach Hawaii einpackst",
+    "Ein Tier, das man im Zoo sehen könnte"
+   ],
+   "id": "122531",
+   "starterContent": true,
+   "tasks": [
+    "Etwas, das dir deine Eltern als Kind nicht erlaubt haben",
+    "Etwas, das du für einen Strandtag einpackst",
+    "Ein Tier, in das du dich gern jederzeit verwandeln könntest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Geruch, den du liebst",
+    "Ein Raum bei dir zu Hause",
+    "Ein Nationalfeiertag"
+   ],
+   "id": "122532",
+   "starterContent": true,
+   "tasks": [
+    "Ein schöner Duft für eine Kerze",
+    "Ein Raum bei dir zu Hause, in dem du einen Regenschirm aufbewahrst",
+    "Ein Feiertag, an dem viele ordentlich einen im Tee haben"
+   ],
+   "x": true
+  },
+  {
+   "fakerTasks": [
+    "Ein Tier, das du schon angefasst hast",
+    "Irgendein Tier mit dem Wort „Mann“ dahinter",
+    "Ein Thema, über das du wenig weißt"
+   ],
+   "id": "122533",
+   "starterContent": true,
+   "tasks": [
+    "Ein Tier, das sich gut als Kuscheltier eignet",
+    "Eine neue Idee für einen Batman-Bösewicht",
+    "Ein Thema, über das du dir garantiert eine Doku anschauen würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Gewürz oder Kraut",
+    "Ein Kleidungsstück von früher",
+    "Ein typisches Haushaltsgerät"
+   ],
+   "id": "122534",
+   "starterContent": true,
+   "tasks": [
+    "Ein Gewürz oder Kraut, das wahrscheinlich in KFCs geheimer Mischung steckt",
+    "Ein Kleidungsstück, das wieder in Mode kommen sollte",
+    "Ein Haushaltsgerät, das nur ein Profi reparieren sollte"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein beliebter Energydrink",
+    "Ein Getränk, das einer Oma schmecken könnte",
+    "Etwas, das du als Kind getrunken hast"
+   ],
+   "id": "122661",
+   "starterContent": true,
+   "tasks": [
+    "Ein Getränk, das man sich ab und zu gönnt",
+    "Ein Getränk, das dir beim Entspannen hilft",
+    "Ein Getränk, vor dem es dich richtig ekelt"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Das Beste beim Kuchenverkauf",
+    "Eine typische Frucht beim Hotelfrühstück",
+    "Das neueste Foto auf deinem Handy"
+   ],
+   "id": "122662",
+   "starterContent": true,
+   "tasks": [
+    "Ein Gebäck, das du sicher selbst backen kannst",
+    "Eine Frucht, die du jeden Tag gern essen würdest",
+    "Ein Foto, das eine Mutter auf ihrem Handy haben könnte"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Etwas für deine Körperhygiene",
+    "Etwas Nerviges, das du für deinen Job machen musst",
+    "Etwas Nerviges, das zum Erwachsensein dazugehört"
+   ],
+   "id": "122663",
+   "starterContent": true,
+   "tasks": [
+    "Etwas Nerviges, das du jeden Tag machen musst",
+    "Etwas Nerviges, das du jede Woche machen musst",
+    "Etwas Nerviges, das du jedes Jahr machen musst"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein typisches kleines Geschäft in einer Kleinstadt",
+    "Eine große Ladenkette, die es gefühlt ÜBERALL gibt",
+    "Ein Geschäft, in dem du gern eine Weile bleiben würdest"
+   ],
+   "id": "122665",
+   "starterContent": true,
+   "tasks": [
+    "Ein kleiner Laden, in dem du gern arbeiten würdest",
+    "Eine große Ladenkette, die du nicht magst",
+    "Ein Geschäft, das du jede Woche besuchst"
+   ]
+  },
+  {
+   "countrySpecific": true,
+   "fakerTasks": [
+    "Etwas, wofür Spitzensportler trainieren",
+    "Ein Ereignis, bei dem es Süßigkeiten gibt",
+    "Eine Eigenschaft, die ein Präsidentschaftskandidat haben sollte"
+   ],
+   "id": "122666",
+   "starterContent": true,
+   "tasks": [
+    "Etwas, wofür Menschen viel trainieren",
+    "Ein Ereignis im Herbst",
+    "Etwas, wofür man eine Medaille bekommen kann"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Eine Geschmacksrichtung, die als Schokolade gut wäre",
+    "Ein Schulfach, das die meisten hassen",
+    "Ein Musiker, der wohl so bald nicht mehr auf Tour geht"
+   ],
+   "id": "122667",
+   "starterContent": true,
+   "tasks": [
+    "Eine Geschmacksrichtung, die als Kaugummi gut wäre",
+    "Ein Schulfach, das du im Alltag wirklich oft brauchst",
+    "Ein Musiker, den du gern live sehen würdest"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Etwas, das man in einem schicken Spa findet",
+    "Ein Spiel für den Rasen",
+    "Eine extrem hässliche Farbe"
+   ],
+   "id": "122668",
+   "starterContent": true,
+   "tasks": [
+    "Etwas, das man in einem schicken Spa findet",
+    "Ein Spiel, das Rentner gern spielen",
+    "Eine Farbe mit einem ungewöhnlichen Namen"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Das Letzte, wofür du eine Briefmarke gebraucht hast",
+    "Eine Firma, bei der du oft Kleidung kaufst",
+    "Die letzte Person, die dich angerufen hat"
+   ],
+   "id": "122669",
+   "starterContent": true,
+   "tasks": [
+    "Etwas, das du noch mit der normalen Post verschickst",
+    "Eine Firma, die dir UNMENGEN an E-Mails schickt",
+    "Eine Person, über deren Anrufe du dich freust"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Ein Beruf mit einer langen Ausbildung",
+    "Ein Kinderbuchautor",
+    "Ein Film, der eine moralische oder religiöse Botschaft vermittelt"
+   ],
+   "id": "122670",
+   "starterContent": true,
+   "tasks": [
+    "Ein Beruf, den du vertrauenswürdig findest",
+    "Ein Kinderbuchautor, den du bewunderst",
+    "Ein Film, der zu den Feiertagen ständig läuft"
+   ]
+  },
+  {
+   "fakerTasks": [
+    "Irgendein Jackbox-Spiel",
+    "Etwas, wobei Menschen sehr ins Schwitzen kommen",
+    "Etwas, das viel Konzentration erfordert"
+   ],
+   "id": "122671",
+   "starterContent": true,
+   "tasks": [
+    "Ein Spiel, das du mit deinen Freunden spielen kannst",
+    "Etwas, das mit vielen Leuten mehr Spaß macht",
+    "Etwas, das du allein machen kannst"
+   ]
+  }
+ ]
+}

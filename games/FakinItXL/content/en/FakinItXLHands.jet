@@ -1,0 +1,1852 @@
+{
+ "content": [
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120471",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du an Geister glaubst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120472",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal weitergegessen hast, nachdem du ein Haar im Essen gefunden hattest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120473",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du immer noch deine Weisheitszähne hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120474",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du in dieser Woche schon ein Selfie gemacht hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120475",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du in letzter Zeit im Kino geweint hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120476",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du haarige Arme hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120477",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dir im Kino schon mal jemand gesagt hat, dass du still sein sollst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120479",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein riesiges Bett besitzt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120480",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon einmal einen platten Reifen gewechselt hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120481",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du blondes Haar hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120482",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals Nacktbaden warst (also, im Meer oder See, nicht in der Badewanne).",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120483",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals ein Protestschild getragen hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120484",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dein Partner dir schon mal beim Pinkeln zugesehen hat.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120486",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du seit über einer Woche NICHT mehr Wäsche gewaschen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120487",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals eine schlechte Bewertung auf Google Reviews geschrieben hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120488",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du „Hannibal“ gesehen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120489",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals darüber gelogen hast, welche Partei du gewählt hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120490",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein totes, ausgestopftes Tier zu Hause hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120491",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du eine Lebensmittelallergie hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120492",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du braune Augen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120493",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du KEINE Piercings besitzt.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120496",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein Paar Crocs besitzt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120497",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dir jemals eine Wunde genäht werden musste."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120499",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du irgendetwas von der Marke Lego besitzt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120500",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du heute Parfüm trägst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120502",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade Haargel oder Haarspray trägst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120503",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon einmal während eines Dates geweint hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120504",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade ein alkoholisches Getränk genießt.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120506",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du in deiner Schulzeit in einer Sportmannschaft warst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120507",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade betrunken bist.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120509",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn in der Nähe deiner Toilette eine Kerze steht."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120511",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du vor Kurzem beim Friseur warst."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120512",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du weißt was Futsal ist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120513",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals eine Schlange berührt hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120514",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals zu einem Bundesligaspiel im Stadion warst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120515",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du die Serie „Kommissar Rex“ gesehen hast."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120517",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal ein Cheerleader-Outfit getragen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120518",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du einen Fonduetopf besitzt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120520",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du mit einer Schmusedecke oder einem Kuscheltier schläfst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120521",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal einen verrückten Hut besessen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120522",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du in deiner Schulzeit NIE nachsitzen musstest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120523",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du manchmal (oder immer) nackt schläfst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120524",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein verstecktes Tattoo hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120525",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein Millennial bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120527",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Kinder hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120528",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du absichtlich oder aus Versehen schon mal das Mittagessen von jemand anderem geklaut hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120530",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade Schmuck trägst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120532",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals Skateboard gefahren bist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120533",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Haare am Po hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120539",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon einmal überfallen wurdest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120541",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Grübchen im Gesicht hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120542",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemanden in der Schule gemobbt hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120543",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dich die Polizei schon mal wegen Zuschnellfahrens angehalten hat.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120546",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du irgendeine Art von Glücksbringer trägst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120547",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du irgendwo ehrenamtlich arbeitest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120549",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du glaubst, jemals ein Ufo gesehen zu haben."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120551",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du außer Deutsch noch eine andere Sprache sprichst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120552",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du die Musik von Helene Fischer auch nur ein bisschen magst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120553",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal länger als achtundvierzig Stunden wach geblieben bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120554",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein Fußballtrikot besitzt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120555",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal irgendwo rausgeschmissen wurdest, etwa aus einem Restaurant oder einem Club."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120556",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dich jemals in der Öffentlichkeit übergeben hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120557",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn irgendwo in deinem Namen ein W vorkommt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120561",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals als Babysitter gearbeitet hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120562",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dich jemals in einen Film geschlichen hast, ohne zu bezahlen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120563",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals eine Fernbeziehung hattest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120564",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du auf einen Spitznamen hörst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120647",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn es dir Spaß macht, zu singen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120649",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du heute schon ein großes Geschäft gemacht hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120651",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal in einem Laden geklaut hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120652",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du einen BH zu Hause hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120653",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du heute schon geduscht hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120654",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dir schon mal jemand einen Faustschlag verpasst hat.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120655",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dir Whiskey schmeckt.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120657",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du regelmäßig deinen Stuhlgang betrachtest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120658",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dir als Erwachsener schon mal in die Hose gemacht hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120659",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Alkohol schon vor deinem 16. Lebensjahr getrunken hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120660",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals in einem Kino eingeschlafen bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120661",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dich jemals in einem Flugzeug übergeben musstest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120662",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn sich jemand anderes jemals auf deine Kleidung übergeben hat.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120663",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals jemandem ins Essen gespuckt hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120664",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Spiele magst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120665",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du regelmäßig sieben Stunden oder länger schläfst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120666",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals Handschellen getragen hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120667",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal jemanden beim ersten Date geküsst hast.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120668",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals in einen Verkehrsunfall verwickelt warst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120669",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du manchmal keine Unterwäsche trägst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120670",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals in die Dusche gepinkelt hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120671",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemals Blut gespendet hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120672",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du seit Beginn dieses Spiels gefurzt hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120673",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du vor 1983 geboren wurdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120674",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerne mehr Haare hättest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120675",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade irgendetwas Rotes trägst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120676",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn irgendwo in deinem Namen ein A vorkommt. Zweite Vornamen zählen auch."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120677",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du eine Brille oder Kontaktlinsen brauchst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120678",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dein Nachname länger ist als dein Vorname."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120679",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du keine Hunde magst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120680",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du KEINE Kinder hast (soweit du weißt).",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120871",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn es in deinem Haus ein Kissen gibt, das niemand außer dir benutzen darf.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120872",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du weißt, wie Pipi schmeckt.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120875",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du uns deine letzte private Nachricht auf Instagram vorlesen würdest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "120876",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein echter Deutschland-Fan bist! SCHLAAAND! DEUTSCHLAND! DEUTSCHLAND!",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120880",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade etwas vor deinen Eltern verheimlichst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120881",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gern wissen würdest, wie Menschenfleisch schmeckt.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120882",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dir wünschst, dein Hintern würde sich anders verhalten."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120883",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du einen Waschbären in einem fairen Kampf töten könntest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120884",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal dabei erwischt wurdest, wie du einer Autoritätsperson den Stinkefinger gezeigt hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120897",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dir vorstellen könntest, mit einem Mord davonzukommen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120901",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemanden daten würdest, der wie deine Großmutter riecht.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120902",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du jemandem mit dem du erst seit zwei Monaten zusammen bist, ein Organ spenden würdest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120903",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du auf der Straße schon mal so getan hast, als würdest du deinen Ex nicht sehen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120920",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du es deiner Meinung nach verdienst, in einer Falle wie aus den „Saw“-Filmen zu landen.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120921",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du die Beweggründe des Killers in einem Horrorfilm schon mal zu gut nachvollziehen konntest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120922",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du King Kong (heimlich!) in den Hintern kriechen könntest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120923",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du vor deinen Freunden schon mal romantisch versagt hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120941",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn wir alle deiner Meinung nach mehr Insekten essen sollten!!!"
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120942",
+   "isInRoomOnly": false,
+   "task": "Ganz ohne Hintergedanken: Hebe die Hand, wenn du einen Organspendeausweis hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120944",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gern als „klein, aber oho“ bezeichnet wirst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120945",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn man dich schon mal betrogen hat … es dir aber völlig egal war.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120947",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du deiner Meinung nach einen ziemlich guten Mafiaboss abgeben würdest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Hebe die Hand auf eine interessante Art.",
+   "id": "120948",
+   "isInRoomOnly": true,
+   "task": "Hebe die Hand so, als hättest du Angst davor, die Hand zu heben."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120951",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal dachtest, du wärst auf einem Date, aber die Zeichen falsch gedeutet hast.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "120952",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du heute schon geheult hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120956",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal deine Nägel abgekaut und dabei ein bisschen zu viel Menschenfleisch erwischt hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120957",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du dich gern regelmäßig häuten würdest wie eine dicke, fette Riesenschlange.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120963",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du im betrunkenen Zustand gern mal Dialekt sprichst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120968",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal davon geträumt hast, was du dir beim Tod eines Familienmitglieds vom Erbe kaufen würdest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120971",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du es verdient hast, mal in den Himmel zu kommen.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120972",
+   "isInRoomOnly": false,
+   "task": "Deine Bank wird überfallen! Hebe die Hand, wenn du hoffst, dass man dich als Geisel nimmt.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "120973",
+   "isInRoomOnly": true,
+   "task": "Hebe die Hand, wenn du jemanden aus dieser Runde über deiner Schulter tragen könntest.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120974",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du eine Diva bist, die für Draaaaama lebt.",
+   "x": false
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "120980",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du in einer Parallelwelt, in der du Eier legen kannst, diese Eier selbst essen würdest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "121176",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal jemandem den Kopf ablecken wolltest wie eine Katze.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121981",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du allen ohne Bedenken deinen Suchverlauf zeigen würdest.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "121999",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du vor weniger als fünf Jahren noch zur Schule gegangen bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122000",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du Achterbahnen HASST."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122001",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du im Stadion schon mal vor Jubel andere Leute mit deinem Bier bekleckert hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122003",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du einen Chicken Wing mit Soße noch essen würdest, nachdem er auf deinen Küchenboden gefallen ist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122004",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du in den letzten zwei Wochen dein Bett frisch bezogen hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122005",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du mehr als nur ein paar plattdeutsche Wörter kennst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Hebe die Hand auf eine bestimmte Art.",
+   "id": "122008",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hebe die Hand so, als wärst du das coolste Kind in der Klasse und wolltest eine Frage beantworten."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122009",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du Essen aus der Dose manchmal direkt AUS der Dose isst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122010",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du rote Unterwäsche besitzt.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122011",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du gerade weißt, in welcher Richtung Westen liegt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122013",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal einer Nonne begegnet bist."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122014",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal eine Giraffe angefasst hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122024",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du nach einer bestimmten Person benannt wurdest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122026",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal echten Pelz getragen hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122027",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du die Geburtstage aller Mitspieler kennst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122029",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du weißt, wie man ohne Streichhölzer und Feuerzeug ein Feuer macht."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Hebe die Hand auf eine lustige Art.",
+   "id": "122030",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hebe die Hand so, als wolltest du ein T-Shirt aus einer T-Shirt-Kanone fangen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122031",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal Müll ins Meer geworfen hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122032",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du dir zutraust, diese Gruppe anzuführen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122033",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du samstagabends öfter zu Hause bleibst als ausgehst.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122076",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn in deinem Kühlschrank gerade wahrscheinlich etwas vergammelt."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122077",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Katzen um ihr Leben beneidest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122078",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du zehn Liegestütze schaffst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122079",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn dir Bohnen sehr am Herzen liegen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122080",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du deiner Personalabteilung vollkommen vertraust.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122081",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du tief in deinem Herzen weißt, dass du ein guter Rapper wärst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122082",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du aus dem Kopf weißt, wie man Gramm in Unzen umrechnet."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122083",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du Streiche einfach nur HASST."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122084",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du findest, dass ein Burger mit Champignons richtig lecker und sättigend sein kann."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122085",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du ein Jahr lang von heute auf morgen auf sämtliche sozialen Medien verzichten könntest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122086",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du glaubst, gerade mehr Bargeld dabeizuhaben als die anderen Mitspieler."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122087",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du nach der Apokalypse vermutlich ziemlich nutzlos wärst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122088",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du 2005 noch zur Schule gegangen bist.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122089",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du im Restaurant ohne zu zögern Essen zurückgehen lassen würdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122090",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du mit jemandem flirten würdest, obwohl die Person mit ihrem Ehepartner auf der Party ist.",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122091",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du so ein Nerd bist, dass du einen Lieblingsbaum hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122092",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal gelogen hast, wie viel du für ein Geschenk ausgegeben hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122093",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal in deinem Lebenslauf gelogen hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122094",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal Tierfutter probiert hast, um herauszufinden, wie es schmeckt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122095",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand … wenn du möchtest!"
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122168",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du dich weigerst, Shakespeare zu verstehen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "Halte deine Hand auf einer bestimmten Höhe.",
+   "id": "122173",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hebe die Hand so hoch, wie du normalerweise einen Regenschirm halten würdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122177",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du gerade ein bisschen Verstopfung hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122185",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du bei der letzten Wahl gewählt hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122187",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du KEINE Ahnung hast, wo die coolen Leute abhängen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122188",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du am liebsten jetzt schon in eine Seniorenresidenz ziehen würdest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122189",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du kein Blut sehen kannst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "Hebe die Hand auf eine ungewöhnliche Art.",
+   "id": "122192",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hebe die Hand, als würdest du zum Beat die Zimmerdecke nach oben drücken."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122194",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal bei der Steuererklärung gelogen hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122197",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du einen Reifen wechseln könntest, ohne eine Anleitung nachzuschlagen."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122206",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du NICHT vorhast, einen Podcast zu starten."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122208",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du beim Benutzen eines Lichtschwerts garantiert einen Finger verlieren würdest."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122219",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal mit jemandem vom Bar- oder Servicepersonal rumgeknutscht hast.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122230",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal gelogen hast, dass du wählen warst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122231",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du dich gerade an einer peinlichen Stelle kratzen müsstest, es dir aber verkneifst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122232",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du eine der Spielfiguren aus Fakin’ It attraktiv findest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122260",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du an Leben auf dem Mars glaubst."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122270",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du eine Geschäftsidee hast, die du wirklich bei „Die Höhle der Löwen“ vorstellen könntest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122274",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal bei einem Teleshopping-Sender angerufen hast, um etwas zu kaufen."
+  },
+  {
+   "appearance": "LATE",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122275",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal Geld aus einer Sammelklage bekommen hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122281",
+   "isInRoomOnly": false,
+   "starterContent": false,
+   "task": "Hebe die Hand, wenn du die anderen davon überzeugen könntest, dass du Stefan heißt."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122283",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal eine KI um Rat gefragt hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122285",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal Polarlichter gesehen hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122286",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du als Kind ganz schwer in eine Zeichentrickfigur verknallt warst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122290",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du dich schon mal auf Social Media über eine Fluggesellschaft beschwert und sie dabei markiert hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122292",
+   "isInRoomOnly": true,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du in einem steckengebliebenen Aufzug notfalls eine Pinkelecke einrichten würdest.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122294",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du schon mal Fanpost an eine berühmte Person geschickt hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122295",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du ein Tagebuch führst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122300",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du ein Foto von jemandem im Portemonnaie hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122316",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal in einem Museum ein Gemälde angefasst hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122317",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon im September für Halloween dekorierst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122318",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal selbst Feuerwerk angezündet hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122319",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn dein Foto in einem Restaurant an der Wand hängt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122321",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn deine abendliche Hautpflege über eine halbe Stunde dauert."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122322",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du viel zu viel Angst hättest, eine ganze Nacht auf einem Friedhof zu verbringen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122324",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du Smalltalk liebst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122325",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn dich Sportwagen nicht besonders beeindrucken."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122363",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du an Wiedergeburt glaubst.",
+   "x": true
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122364",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal ernsthaft überlegt hast, ein geistliches Amt zu übernehmen."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122366",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du bei dir zu Hause die meiste Hausarbeit erledigst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122367",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn dir schon mal gesagt wurde, dass du wie eine bestimmte berühmte Person aussiehst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122384",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal für eine Straßenumfrage auf Social Media interviewt wurdest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122386",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du alle Teenage Mutant Ninja Turtles beim Namen nennen kannst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122395",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal in einem Luftschiff oder Heißluftballon mitgefahren bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122396",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du glaubwürdig so tun kannst, als würdest du lachen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122398",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du ein Designer-Kleidungsstück besitzt."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122419",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du ungern in deine Heimatstadt zurückkehrst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122424",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal eine lebende Kuh angefasst hast."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122425",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du mindestens einen Kartentrick beherrschst."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122427",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal etwas seziert hast.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122429",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du dich für einen ziemlich dicken Macker hältst.",
+   "x": true
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122430",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal bei einer Talentshow aufgetreten bist."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122431",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal eine Kletterwand ganz bis oben geschafft hast."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "countrySpecific": true,
+   "fakerHint": "",
+   "id": "122468",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal in einem selbstfahrenden Taxi mitgefahren bist."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122469",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal in einer Küche gearbeitet hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122472",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du gerade deine natürliche Haarfarbe trägst."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122474",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal die schicke Parmesanreibe aus einem Restaurant klauen wolltest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122475",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du schon mal von einem Taschendieb beklaut wurdest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122476",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du gerade locker zwei Thunfisch-Sandwiches essen könntest."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122477",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du es okay findest, in der Wohnung Schuhe zu tragen."
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122478",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du im letzten Jahr auf einem Boot warst."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122479",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du im letzten Monat einen Hammer angefasst hast."
+  },
+  {
+   "appearance": "EARLY",
+   "fakerHint": "",
+   "id": "122481",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du thailändisches Essen einfach verdammt liebst!"
+  },
+  {
+   "appearance": "LATE",
+   "fakerHint": "",
+   "id": "122482",
+   "isInRoomOnly": false,
+   "starterContent": true,
+   "task": "Hebe die Hand, wenn du es auf einem Rodeo-Bullen länger als zehn Sekunden aushalten würdest."
+  },
+  {
+   "appearance": "MID-ROUND",
+   "fakerHint": "",
+   "id": "122515",
+   "isInRoomOnly": false,
+   "task": "Hebe die Hand, wenn du gerade in der besten Form deines Lebens bist."
+  }
+ ]
+}

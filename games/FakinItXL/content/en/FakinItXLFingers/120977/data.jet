@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Wenn du Gebärdensprache kannst, gebärde ein versautes Wort! Wenn nicht, schäm dich still in deiner Ecke."
+  }
+ ]
+}

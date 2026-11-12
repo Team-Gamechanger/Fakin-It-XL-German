@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Welches gewagte Kleidungsstück trägst du zur Beerdigung deines größten Hassmenschen?"
+  }
+ ]
+}

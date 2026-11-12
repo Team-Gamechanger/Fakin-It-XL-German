@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaskAudio"
+  },
+  {
+   "t": "A",
+   "v": "task",
+   "n": "TaskAudio",
+   "s": "Welchen Gesichtsausdruck hättest du, wenn ein Showkoch dir eine Garnele zuwerfen würde?"
+  }
+ ]
+}
