@@ -14,7 +14,7 @@
 	"repeatFakerWeightDivisor":"2.0",
 	"video-extension":".mkv",
 	"audio-extension":".ogg",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.de",
 	"supportsKeyboard":"true",
 	"gameId":"16ba5861-622a-45f0-a321-6dcfca95f527",
 	"loadSaveOnLaunch":"true",
@@ -37,5 +37,5 @@
 	"needExitbutton":"true",
 	"supportsFullScreen":"true",
 	"buildTimeStamp":"2026-11-05 10:19:38",
-	"buildVersion":"1793.0-DE"
+	"buildVersion":"1793.1-DE"
 }
